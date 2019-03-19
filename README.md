@@ -17,7 +17,6 @@
 - [Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction](https://github.com/Huangying-Zhan/Depth-VO-Feat), CVPR 2018, 无监督单目深度恢复以及VO
 - [ORB-SLAM-windows](https://github.com/Phylliida/orbslam-windows), Windows版本的ORB-SLAM
 - [StructVIO : Visual-inertial Odometry with Structural Regularity of Man-made Environments](https://github.com/danping/structvio),**[[Project Page](http://drone.sjtu.edu.cn/dpzou/project/structvio.html)]**
-- 
 
 ## Pose/Object tracking
 - [Deep High-Resolution Representation Learning for Human Pose Estimation](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch),CVPR 2019, **[[Paper](https://arxiv.org/pdf/1902.09212.pdf)]**, **[[Project Page](https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html)]**
