@@ -5,7 +5,7 @@
 
 - [Visual-Odometric Localization and Mapping for Ground Vehicles Using SE(2)-XYZ Constraints](https://github.com/izhengfan/se2lam)，ICRA 2019,基于SE(2)-XYZ约束的VO系统
 - [Simple bag-of-words loop closure for visual SLAM](https://github.com/nicolov/simple_slam_loop_closure), [blog](https://nicolovaligi.com/bag-of-words-loop-closure-visual-slam.html)， 回环。
-- [FBOW (Fast Bag of Words), an extremmely optimized version of the DBow2/DBow3 libraries](https://github.com/rmsalinas/fbow),优化版本的DBow2/DBow3库。
+- [FBOW (Fast Bag of Words), an extremmely optimized version of the DBow2/DBow3 libraries](https://github.com/rmsalinas/fbow),优化版本的DBow2/DBow3
 - [Multi-State Constraint Kalman Filter (MSCKF) for Vision-aided Inertial Navigation(master's thesis)](https://github.com/tomas789/tonav)
 - [Calibration algorithm for a camera odometry system](https://github.com/hbtang/calibcamodo), VO系统的标定程序
 - [Modified version of VINS-Mono](https://github.com/cggos/vins_mono_cg), 注释版本VINS Mono
