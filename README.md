@@ -6,7 +6,7 @@
 - [DeepMatchVO: Beyond Photometric Loss for Self-Supervised Ego-Motion Estimation](https://github.com/hlzz/DeepMatchVO),ICRA 2019, **[[Paper](https://arxiv.org/abs/1902.09103)]**
 - [GSLAM: A General SLAM Framework and Benchmark](https://github.com/zdzhaoyong/GSLAM), CVPR 2019, **[[Paper](https://arxiv.org/abs/1902.07995)]**, 集成了各种传感器输入的SLAM统一框架
 - [Visual-Odometric Localization and Mapping for Ground Vehicles Using SE(2)-XYZ Constraints](https://github.com/izhengfan/se2lam)，ICRA 2019,基于SE(2)-XYZ约束的VO系统
-- [Simple bag-of-words loop closure for visual SLAM](https://github.com/nicolov/simple_slam_loop_closure), [blog](https://nicolovaligi.com/bag-of-words-loop-closure-visual-slam.html)， 回环
+- [Simple bag-of-words loop closure for visual SLAM](https://github.com/nicolov/simple_slam_loop_closure), **[[Blog](https://nicolovaligi.com/bag-of-words-loop-closure-visual-slam.html)]**, 回环
 - [FBOW (Fast Bag of Words), an extremmely optimized version of the DBow2/DBow3 libraries](https://github.com/rmsalinas/fbow),优化版本的DBow2/DBow3
 - [Multi-State Constraint Kalman Filter (MSCKF) for Vision-aided Inertial Navigation(master's thesis)](https://github.com/tomas789/tonav)
 - [Calibration algorithm for a camera odometry system](https://github.com/hbtang/calibcamodo), VO系统的标定程序
@@ -25,7 +25,6 @@
 - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask),CVPR 2019,**[[Paper](https://arxiv.org/abs/1812.05050)] [[Video](https://youtu.be/I_iOVrcpEBw)] [[Project Page](http://www.robots.ox.ac.uk/~qwang/SiamMask)]**
 
 ## Depth/Disparity & Flow estimation 
-- [Group-wise Correlation Stereo Network](https://github.com/xy-guo/GwcNet),CVPR 2019.
 - [Group-wise Correlation Stereo Network](https://github.com/xy-guo/GwcNet),CVPR 2019, **[[Paper](https://arxiv.org/abs/1903.04025)]**
 - [DeepMVS: Learning Multi-View Stereopsis](https://github.com/phuang17/DeepMVS), CVPR 2018,**[[Project Page](https://phuang17.github.io/DeepMVS/index.html)]**,多目深度估计
 - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://github.com/sampepose/flownet2-tf), CVPR 2017, 深度学习光流恢复
@@ -65,5 +64,5 @@
 
 
 ## Collections
-- [cvpr2019 (Papers/Codes/Project/Paper reading)](https://github.com/extreme-assistant/cvpr2019)
+- [CVPR 2019 (Papers/Codes/Project/Paper reading)](https://github.com/extreme-assistant/cvpr2019)
 - [A curated list of papers & resources linked to 3D reconstruction from images](https://github.com/openMVG/awesome_3DReconstruction_list),有关三维重建的论文汇总
