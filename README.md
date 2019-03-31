@@ -27,14 +27,19 @@
 
 
 ## Pose/Object tracking
+- [Learning Correspondence from the Cycle-Consistency of Time](https://github.com/xiaolonw/TimeCycle), CVPR 2019, **[[Paper](https://arxiv.org/abs/1903.07593)]**
+- [PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation](https://github.com/zju3dv/pvnet), CVPR 2019, **[[Paper](https://arxiv.org/abs/1812.11788)], [[Project Page](https://zju3dv.github.io/pvnet)]**
+- [Self-Supervised Learning of 3D Human Pose using Multi-view Geometry](https://github.com/mkocabas/EpipolarPose), CVPR 2018, **[[Paper](https://arxiv.org/abs/1903.02330)]**
+- [PifPaf: Composite Fields for Human Pose Estimation](https://github.com/vita-epfl/openpifpaf), **[[Paper](https://arxiv.org/abs/1903.06593)]** 
 - [Deep High-Resolution Representation Learning for Human Pose Estimation](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch),CVPR 2019, **[[Paper](https://arxiv.org/pdf/1902.09212.pdf)]**, **[[Project Page](https://jingdongwang2017.github.io/Projects/HRNet/PoseEstimation.html)]**
 - [PoseFlow: Efficient Online Pose Tracking)](https://github.com/YuliangXiu/PoseFlow), BMVC 2018, **[[Paper](https://arxiv.org/abs/1802.00977)]**
 - [A Bottom-Up Clustering Approach to Unsupervised Person Re-identification](https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification)，AAAI 2019, 重定位
 - [Fast Online Object Tracking and Segmentation: A Unifying Approach](https://github.com/foolwood/SiamMask),CVPR 2019,**[[Paper](https://arxiv.org/abs/1812.05050)] [[Video](https://youtu.be/I_iOVrcpEBw)] [[Project Page](http://www.robots.ox.ac.uk/~qwang/SiamMask)]**
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
-
 ## Depth/Disparity & Flow estimation 
+- [Real-time self-adaptive deep stereo](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo), CVPR 2019, **[[Paper](https://arxiv.org/abs/1810.05424)]**
+- [High Quality Monocular Depth Estimation via Transfer Learning](https://github.com/ialhashim/DenseDepth),CVPR 2019, **[[Paper](https://arxiv.org/abs/1812.11941)]**, **[[Project Page](https://ialhashim.github.io/publications/index.html)]**
 - [Group-wise Correlation Stereo Network](https://github.com/xy-guo/GwcNet),CVPR 2019, **[[Paper](https://arxiv.org/abs/1903.04025)]**
 - [DeepMVS: Learning Multi-View Stereopsis](https://github.com/phuang17/DeepMVS), CVPR 2018,**[[Project Page](https://phuang17.github.io/DeepMVS/index.html)]**,多目深度估计
 - [FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks](https://github.com/sampepose/flownet2-tf), CVPR 2017, 深度学习光流恢复
@@ -43,7 +48,7 @@
 - [Light Filed Depth Estimation using GAN](https://github.com/kuantingchen04/Light-Field-Depth-Estimation)，利用GAN进行光场深度恢复
 - [EV-FlowNet: Self-Supervised Optical Flow for Event-based Cameras](https://github.com/daniilidis-group/EV-FlowNet),Proceedings of Robotics 2018,**[[Paper](https://arxiv.org/abs/1802.06898)]**
 - [DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency](https://github.com/vt-vl-lab/DF-Net), ECCV 2018, **[[Paper](https://arxiv.org/abs/1809.01649)]**
-
+- [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://github.com/yzcjtr/GeoNet), CVPR 2018, **[[Paper](https://arxiv.org/abs/1803.02276)]** 
 
 ## 3D & Graphic
 - [Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding](https://github.com/svip-lab/PlanarReconstruction),CVPR 2019, **[[Paper](https://arxiv.org/pdf/1902.09777.pdf)]**, 单目3D重建
@@ -62,6 +67,7 @@
 
 ## Machine Learning
 - [The best resources around Machine Learning](https://github.com/RemoteML/bestofml)
+- [VGGFace2: A dataset for recognising faces across pose and age](https://github.com/cydonia999/VGGFace2-pytorch)
 - [Statistical learning methods](https://github.com/SmirkCao/Lihang)
 
 
@@ -79,8 +85,11 @@
 
 
 ## Collections
+- [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation),[awesome-object-pose](https://github.com/nkalavak/awesome-object-pose), 位姿估计合集
+- [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation), 语义分割集合
 - [IROS2018 SLAM Collections](https://github.com/mengyuest/iros2018-slam-papers), IROS 2018集合
 - [VP-SLAM-SC-papers](https://github.com/TerenceCYJ/VP-SLAM-SC-papers),Visual Positioning & SLAM & Spatial Cognition 论文统计与分析
+- [Awesome System for Machine Learning](https://github.com/HuaizhengZhang/Awesome-System-for-Machine-Learning)
 - [Machine-Learning-With-Python](https://github.com/Thinkgamer/Machine-Learning-With-Python), 《机器学习实战》python代码实现
 - [How to learn robotics](https://github.com/qqfly/how-to-learn-robotics), 开源机器人学学习指南
 - [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision),DL在CV领域的应用
