@@ -11,7 +11,7 @@
 - [vicalib](https://github.com/arpg/vicalib), 视觉惯导系统标定工具
 - [BreezySLAM](https://github.com/simondlevy/BreezySLAM), 基于雷达的SLAM，支持Python(&Matlab, C++, and Java)
 - [Probabilistic-Robotics](https://github.com/Yvon-Shong/Probabilistic-Robotics), 《概率机器人》中文版，书和课后习题
-- [Stanford Self Driving Car Code](https://github.com/emmjaykay/stanford_self_driving_car_code), **[[Paper](http://robots.stanford.edu/papers/junior08.pdf)]**
+- [Stanford Self Driving Car Code](https://github.com/emmjaykay/stanford_self_driving_car_code), **[[Paper](http://robots.stanford.edu/papers/junior08.pdf)]**, 斯坦福自动驾驶车代码
 - [Udacity Self-Driving Car Engineer Nanodegree projects](https://github.com/ndrplz/self-driving-car)
 - [Artificial Intelligence in Automotive Technology](https://github.com/TUMFTM/Lecture_AI_in_Automotive_Technology), TUM自动驾驶技术中的人工智能课程
 - [DeepMatchVO: Beyond Photometric Loss for Self-Supervised Ego-Motion Estimation](https://github.com/hlzz/DeepMatchVO),ICRA 2019, **[[Paper](https://arxiv.org/abs/1902.09103)]**
