@@ -2,7 +2,18 @@
 
 
 ## SLAM
-
+- [Bundle adjustment demo using Ceres Solver](https://github.com/izhengfan/ba_demo_ceres),  **[[Blog](https://fzheng.me/2018/01/23/ba-demo-ceres/)]**, ceres实现BA
+- [CubeSLAM: Monocular 3D Object Detection and SLAM](https://github.com/shichaoy/cube_slam), **[[Paper](https://arxiv.org/abs/1806.00557)]**
+- [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://github.com/sshaoshuai/PointRCNN), CVPR 2019, **[[Paper](https://arxiv.org/abs/1812.04244)]**
+- [GIST-Global Image Descriptor](https://github.com/nrupatunga/GIST-global-Image-Descripor), GIST描述子
+- [mav voxblox planning](https://github.com/ethz-asl/mav_voxblox_planning), MAV planning tools using voxblox as the map representation.
+- [Python Kalman Filter](https://github.com/zziz/kalman-filter), 30行实现卡尔曼滤波
+- [vicalib](https://github.com/arpg/vicalib), 视觉惯导系统标定工具
+- [BreezySLAM](https://github.com/simondlevy/BreezySLAM), 基于雷达的SLAM，支持Python(&Matlab, C++, and Java)
+- [Probabilistic-Robotics](https://github.com/Yvon-Shong/Probabilistic-Robotics), 《概率机器人》中文版，书和课后习题
+- [Stanford Self Driving Car Code](https://github.com/emmjaykay/stanford_self_driving_car_code), **[[Paper](http://robots.stanford.edu/papers/junior08.pdf)]**
+- [Udacity Self-Driving Car Engineer Nanodegree projects](https://github.com/ndrplz/self-driving-car)
+- [Artificial Intelligence in Automotive Technology](https://github.com/TUMFTM/Lecture_AI_in_Automotive_Technology), TUM自动驾驶技术中的人工智能课程
 - [DeepMatchVO: Beyond Photometric Loss for Self-Supervised Ego-Motion Estimation](https://github.com/hlzz/DeepMatchVO),ICRA 2019, **[[Paper](https://arxiv.org/abs/1902.09103)]**
 - [GSLAM: A General SLAM Framework and Benchmark](https://github.com/zdzhaoyong/GSLAM), CVPR 2019, **[[Paper](https://arxiv.org/abs/1902.07995)]**, 集成了各种传感器输入的SLAM统一框架
 - [Visual-Odometric Localization and Mapping for Ground Vehicles Using SE(2)-XYZ Constraints](https://github.com/izhengfan/se2lam)，ICRA 2019,基于SE(2)-XYZ约束的VO系统
@@ -24,9 +35,13 @@
 - [Multi-threaded generic RANSAC implemetation](https://github.com/drsrinathsridhar/GRANSAC), 多线程RANSAC
 - [Visual Odometry with Drift-Free Rotation Estimation Using Indoor Scene Regularities](https://github.com/PyojinKim/OPVO), BMVC 2017, **[[Project Page](http://pyojinkim.me/pub/Visual-Odometry-with-Drift-Free-Rotation-Estimation-Using-Indoor-Scene-Regularities/)]**，利用平面正交信息进行VO
 - [ICE-BA](https://github.com/baidu/ICE-BA), CVPR 2018, **[[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf)]**
+- [GraphSfM: Robust and Efficient Graph-based Structure from Motion](https://github.com/AIBluefisher/GraphSfM), **[[Project Page](https://aibluefisher.github.io/GraphSfM/)]**
+- [LOAM_NOTED](https://github.com/cuitaixiang/LOAM_NOTED), loam中文注解版
 
 
 ## Pose/Object tracking
+- [Libra R-CNN: Towards Balanced Learning for Object Detection](https://github.com/OceanPang/Libra_R-CNN)
+- [High-resolution networks (HRNets) for object detection](https://github.com/HRNet/HRNet-Object-Detection), **[[Paper](https://arxiv.org/pdf/1904.04514.pdf)]
 - [Learning Correspondence from the Cycle-Consistency of Time](https://github.com/xiaolonw/TimeCycle), CVPR 2019, **[[Paper](https://arxiv.org/abs/1903.07593)]**
 - [PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation](https://github.com/zju3dv/pvnet), CVPR 2019, **[[Paper](https://arxiv.org/abs/1812.11788)], [[Project Page](https://zju3dv.github.io/pvnet)]**
 - [Self-Supervised Learning of 3D Human Pose using Multi-view Geometry](https://github.com/mkocabas/EpipolarPose), CVPR 2018, **[[Paper](https://arxiv.org/abs/1903.02330)]**
@@ -38,6 +53,10 @@
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
 ## Depth/Disparity & Flow estimation 
+- [Sparse Depth Completion](https://github.com/wvangansbeke/Sparse-Depth-Completion), **[[Paper](https://arxiv.org/pdf/1902.05356.pdf)]**, RGB图像辅助雷达深度估计
+- [GASDA](https://github.com/sshan-zhao/GASDA), CVPR 2019, **[[Paper](https://sshan-zhao.github.io/papers/gasda.pdf)]**
+- [MVSNet: Depth Inference for Unstructured Multi-view Stereo](https://github.com/xy-guo/MVSNet_pytorch), **[[Paper](https://arxiv.org/abs/1804.02505)]**, 非官方实现版本的MVSNet
+- [Stereo R-CNN based 3D Object Detection for Autonomous Driving](https://github.com/HKUST-Aerial-Robotics/Stereo-RCNN), CVPR 2019, **[[Paper](https://arxiv.org/pdf/1902.09738.pdf)]**
 - [Real-time self-adaptive deep stereo](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo), CVPR 2019, **[[Paper](https://arxiv.org/abs/1810.05424)]**
 - [High Quality Monocular Depth Estimation via Transfer Learning](https://github.com/ialhashim/DenseDepth),CVPR 2019, **[[Paper](https://arxiv.org/abs/1812.11941)]**, **[[Project Page](https://ialhashim.github.io/publications/index.html)]**
 - [Group-wise Correlation Stereo Network](https://github.com/xy-guo/GwcNet),CVPR 2019, **[[Paper](https://arxiv.org/abs/1903.04025)]**
@@ -51,10 +70,10 @@
 - [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://github.com/yzcjtr/GeoNet), CVPR 2018, **[[Paper](https://arxiv.org/abs/1803.02276)]** 
 
 ## 3D & Graphic
+- [densebody_pytorch](https://github.com/Lotayou/densebody_pytorch), **[[Paper](https://arxiv.org/abs/1903.10153v3)]** 
 - [Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding](https://github.com/svip-lab/PlanarReconstruction),CVPR 2019, **[[Paper](https://arxiv.org/pdf/1902.09777.pdf)]**, 单目3D重建
 - [HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data Augmentation](https://github.com/sunset1995/HorizonNet),CVPR 2019, **[[Paper](https://arxiv.org/abs/1901.03861)]**, 深度学习全景转3D
 - [Adaptive O-CNN: A Patch-based Deep Representation of 3D Shapes](https://github.com/Microsoft/O-CNN),SIGGRAPH Asia 2018, **[[Project Page](https://wang-ps.github.io/AO-CNN.html)]**
-
 
 
 ## GAN
@@ -85,6 +104,11 @@
 
 
 ## Collections
+- [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X), 各种Segmentation论文&代码
+- [CVPR-2019](https://github.com/amusi/CVPR2019-Code), CVPR 2019 论文开源项目合集
+- [awesome-slam](https://github.com/kanster/awesome-slam), SLAM合集
+- [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam), 视觉SLAM合集
+- [Papers with code](https://github.com/zziz/pwc), 周更论文with代码
 - [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation),[awesome-object-pose](https://github.com/nkalavak/awesome-object-pose), 位姿估计合集
 - [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation), 语义分割集合
 - [IROS2018 SLAM Collections](https://github.com/mengyuest/iros2018-slam-papers), IROS 2018集合
@@ -98,3 +122,18 @@
 - [State-of-the-art papers and code](https://paperswithcode.com/sota),搜集了目前sota的论文以及代码
 - [CVPR 2019 (Papers/Codes/Project/Paper reading)](https://github.com/extreme-assistant/cvpr2019)
 - [A curated list of papers & resources linked to 3D reconstruction from images](https://github.com/openMVG/awesome_3DReconstruction_list),有关三维重建的论文汇总
+- [SLAM-Jobs](https://github.com/nebula-beta/SLAM-Jobs), SLAM/SFM求职指南
+
+## Others
+- [LPRNet: License Plate Recognition via Deep Neural Networks](https://github.com/lyl8213/Plate_Recognition-LPRnet), **[[Paper](https://arxiv.org/pdf/1806.10447.pdf)]** 
+- [CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR), 运用tf实现自然场景文字检测
+- [BeautyCamera](https://github.com/PerpetualSmile/BeautyCamera), 美颜相机，具有人脸检测、磨皮美白人脸、滤镜、调节图片、摄像功能
+- [CV-arXiv-Daily](https://github.com/zhengzhugithub/CV-arXiv-Daily), 分享计算机视觉每天的arXiv文章
+- Pluralistic-Inpainting, [ArXiv](https://arxiv.org/abs/1903.04227) | [Project Page](http://www.chuanxiaz.com/publication/pluralistic/) | [Online Demo](http://www.chuanxiaz.com/project/pluralistic/) | [Video(demo)](https://www.youtube.com/watch?v=9V7rNoLVmSs)
+- [An Interactive Introduction to Fourier Transforms](https://github.com/Jezzamonn/fourier), 超棒的傅里叶变换图形化解释
+- [pumpkin-book](https://github.com/datawhalechina/pumpkin-book), 《机器学习》（西瓜书）公式推导解析
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
