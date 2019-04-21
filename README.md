@@ -1,7 +1,15 @@
 # :star:Recent Stars:star:
 
 
-## SLAM
+## SLAM related
+
+- [PL-SLAM: a Stereo SLAM System through the Combination of Points and Line Segments](https://github.com/rubengooj/pl-slam),  **[[Paper](https://arxiv.org/abs/1705.09479)]**，线特征SLAM
+- [Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM](https://github.com/YipuZhao/GF_PL_SLAM), ECCV 2018, **[[Project Page](https://sites.google.com/site/zhaoyipu/good-feature-visual-slam)]**, 改进的PL-SLAM
+- [Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres](https://github.com/leoshine/Spherical_Regression), CVPR 2019, **[[Paper](http://arxiv.org/abs/1904.05404)]**
+- [svo_edgelet](https://github.com/icsl-Jeon/traj_gen_vis), 在线轨迹生成
+- [Drone SLAM project for Caltech's ME 134 Autonomy class](https://github.com/TimboKZ/caltech_samaritan), **[[PDF](https://github.com/TimboKZ/caltech_samaritan/blob/master/CS134_Final_Project_Report.pdf)]**
+- [Online Trajectory Generation of a MAV for Chasing a Moving Target in 3D Dense Environments](https://github.com/icsl-Jeon/traj_gen_vis), **[[Paper](https://arxiv.org/pdf/1904.03421.pdf)]**
+- [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics),**[[Paper](https://arxiv.org/abs/1808.10703)]**, [CppRobotics](https://github.com/onlytailei/CppRobotics)
 - [Bundle adjustment demo using Ceres Solver](https://github.com/izhengfan/ba_demo_ceres),  **[[Blog](https://fzheng.me/2018/01/23/ba-demo-ceres/)]**, ceres实现BA
 - [CubeSLAM: Monocular 3D Object Detection and SLAM](https://github.com/shichaoy/cube_slam), **[[Paper](https://arxiv.org/abs/1806.00557)]**
 - [PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud](https://github.com/sshaoshuai/PointRCNN), CVPR 2019, **[[Paper](https://arxiv.org/abs/1812.04244)]**
@@ -125,6 +133,7 @@
 - [SLAM-Jobs](https://github.com/nebula-beta/SLAM-Jobs), SLAM/SFM求职指南
 
 ## Others
+- [YOLACT: Real-time Instance Segmentation](https://github.com/dbolya/yolact)
 - [LPRNet: License Plate Recognition via Deep Neural Networks](https://github.com/lyl8213/Plate_Recognition-LPRnet), **[[Paper](https://arxiv.org/pdf/1806.10447.pdf)]** 
 - [CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR), 运用tf实现自然场景文字检测
 - [BeautyCamera](https://github.com/PerpetualSmile/BeautyCamera), 美颜相机，具有人脸检测、磨皮美白人脸、滤镜、调节图片、摄像功能
