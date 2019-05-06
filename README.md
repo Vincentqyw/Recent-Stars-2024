@@ -49,7 +49,7 @@
 
 ## Pose/Object tracking
 - [Libra R-CNN: Towards Balanced Learning for Object Detection](https://github.com/OceanPang/Libra_R-CNN)
-- [High-resolution networks (HRNets) for object detection](https://github.com/HRNet/HRNet-Object-Detection), **[[Paper](https://arxiv.org/pdf/1904.04514.pdf)]
+- [High-resolution networks (HRNets) for object detection](https://github.com/HRNet/HRNet-Object-Detection), **[[Paper](https://arxiv.org/pdf/1904.04514.pdf)]**
 - [Learning Correspondence from the Cycle-Consistency of Time](https://github.com/xiaolonw/TimeCycle), CVPR 2019, **[[Paper](https://arxiv.org/abs/1903.07593)]**
 - [PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation](https://github.com/zju3dv/pvnet), CVPR 2019, **[[Paper](https://arxiv.org/abs/1812.11788)], [[Project Page](https://zju3dv.github.io/pvnet)]**
 - [Self-Supervised Learning of 3D Human Pose using Multi-view Geometry](https://github.com/mkocabas/EpipolarPose), CVPR 2018, **[[Paper](https://arxiv.org/abs/1903.02330)]**
