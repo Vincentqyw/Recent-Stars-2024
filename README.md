@@ -2,8 +2,17 @@
 
 
 ## SLAM related
-
-- [PL-SLAM: a Stereo SLAM System through the Combination of Points and Line Segments](https://github.com/rubengooj/pl-slam),  **[[Paper](https://arxiv.org/abs/1705.09479)]**，线特征SLAM
+- [Solutions to assignments of Robot Mapping Course WS 2013/14 by Dr. Cyrill Stachniss at University of Freiburg](https://github.com/kiran-mohan/SLAM-Algorithms-Octave),SLAM算法学习课后作业答案
+- [Direct sparse odometry combined with stereo cameras and IMU](https://github.com/RonaldSun/VI-Stereo-DSO),双目DSO+IMU
+- [Direct Sparse Odometry with Stereo Cameras](https://github.com/HorizonAD/stereo_dso),双目DSO
+- [Python binding of SLAM graph optimization framework g2o](https://github.com/uoip/g2opy),python版本的g2o实现
+- [D2-Net: A Trainable CNN for Joint Description and Detection of Local Features](https://github.com/mihaidusmanu/d2-net), CVPR 2019, **[[Paper](https://arxiv.org/abs/1905.03561)]**, **[[Project Page](https://dsmn.ml/publications/d2-net.html)]**, 深度学习描述子
+- [ROS interface for ORBSLAM2](https://github.com/ethz-asl/orb_slam_2_ros),ROS版本的ORBSLAM2
+- [CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction](https://github.com/yan99033/CNN-SVO)， **[[Paper](https://arxiv.org/pdf/1810.01011.pdf)]**
+- [VINS-Mono-Learning](https://github.com/ManiiXu/VINS-Mono-Learning)，代码注释版VINS-Mono，初学者学习
+- [OpenVSLAM: Versatile Visual SLAM Framework](https://github.com/xdspacelab/openvslam),  **[[Project Page](https://openvslam.readthedocs.io/)]**
+- [RESLAM: A real-time robust edge-based SLAM system](https://github.com/fabianschenk/RESLAM), **[[Paper](https://github.com/fabianschenk/fabianschenk.github.io/raw/master/files/schenk_icra_2019.pdf)]**
+- [PL-SLAM: a Stereo SLAM System through the Combination of Points and Line Segments](https://github.com/rubengooj/pl-slam), **[[Paper](https://arxiv.org/abs/1705.09479)]**，线特征SLAM
 - [Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM](https://github.com/YipuZhao/GF_PL_SLAM), ECCV 2018, **[[Project Page](https://sites.google.com/site/zhaoyipu/good-feature-visual-slam)]**, 改进的PL-SLAM
 - [Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres](https://github.com/leoshine/Spherical_Regression), CVPR 2019, **[[Paper](http://arxiv.org/abs/1904.05404)]**
 - [svo_edgelet](https://github.com/icsl-Jeon/traj_gen_vis), 在线轨迹生成
@@ -45,9 +54,11 @@
 - [ICE-BA](https://github.com/baidu/ICE-BA), CVPR 2018, **[[Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liu_ICE-BA_Incremental_Consistent_CVPR_2018_paper.pdf)]**
 - [GraphSfM: Robust and Efficient Graph-based Structure from Motion](https://github.com/AIBluefisher/GraphSfM), **[[Project Page](https://aibluefisher.github.io/GraphSfM/)]**
 - [LOAM_NOTED](https://github.com/cuitaixiang/LOAM_NOTED), loam中文注解版
-
+- [Divide and Conquer: Effcient Density-Based Tracking of 3D Sensors in Manhattan Worlds](https://github.com/Ethan-Zhou/MWO),ACCV 2016,**[[Project Page](http://users.cecs.anu.edu.au/~u5535909/)]**,曼哈顿世界利用深度传感器进行旋转量平移量分离优化
+- [Real-time Manhattan World Rotation Estimation in 3D](https://github.com/jstraub/rtmf),IROS 2015,实时曼哈顿世界旋转估计
 
 ## Pose/Object tracking
+- [Basics of 2D and 3D Human Pose Estimation](https://github.com/cbsudux/Human-Pose-Estimation-101),人体姿态估计入门
 - [Libra R-CNN: Towards Balanced Learning for Object Detection](https://github.com/OceanPang/Libra_R-CNN)
 - [High-resolution networks (HRNets) for object detection](https://github.com/HRNet/HRNet-Object-Detection), **[[Paper](https://arxiv.org/pdf/1904.04514.pdf)]**
 - [Learning Correspondence from the Cycle-Consistency of Time](https://github.com/xiaolonw/TimeCycle), CVPR 2019, **[[Paper](https://arxiv.org/abs/1903.07593)]**
@@ -61,6 +72,10 @@
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
 ## Depth/Disparity & Flow estimation 
+- [Fast Depth Densification for Occlusion-aware Augmented Reality](https://github.com/muskie82/AR-Depth-cpp), SIGGRAPH-Asia 2018, **[[Project Page](https://homes.cs.washington.edu/~holynski/publications/occlusion/index.html)]**,[another version](https://github.com/facebookresearch/AR-Depth)
+- [Learning To Adapt For Stereo](https://github.com/CVLAB-Unibo/Learning2AdaptForStereo), CVPR 2019, **[[Paper](https://arxiv.org/pdf/1904.02957)]**
+- [Pyramid Stereo Matching Network](https://github.com/JiaRenChang/PSMNet),**[[Paper](https://arxiv.org/abs/1803.08669)]** 
+- [Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence](https://github.com/lelimite4444/BridgeDepthFlow), **[[Paper](https://arxiv.org/abs/1905.09265)]**
 - [Sparse Depth Completion](https://github.com/wvangansbeke/Sparse-Depth-Completion), **[[Paper](https://arxiv.org/pdf/1902.05356.pdf)]**, RGB图像辅助雷达深度估计
 - [GASDA](https://github.com/sshan-zhao/GASDA), CVPR 2019, **[[Paper](https://sshan-zhao.github.io/papers/gasda.pdf)]**
 - [MVSNet: Depth Inference for Unstructured Multi-view Stereo](https://github.com/xy-guo/MVSNet_pytorch), **[[Paper](https://arxiv.org/abs/1804.02505)]**, 非官方实现版本的MVSNet
@@ -78,6 +93,7 @@
 - [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://github.com/yzcjtr/GeoNet), CVPR 2018, **[[Paper](https://arxiv.org/abs/1803.02276)]** 
 
 ## 3D & Graphic
+- [ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://github.com/PRBonn/refusion), **[[Paper](https://arxiv.org/pdf/1905.02082.pdf)]** 
 - [densebody_pytorch](https://github.com/Lotayou/densebody_pytorch), **[[Paper](https://arxiv.org/abs/1903.10153v3)]** 
 - [Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding](https://github.com/svip-lab/PlanarReconstruction),CVPR 2019, **[[Paper](https://arxiv.org/pdf/1902.09777.pdf)]**, 单目3D重建
 - [HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data Augmentation](https://github.com/sunset1995/HorizonNet),CVPR 2019, **[[Paper](https://arxiv.org/abs/1901.03861)]**, 深度学习全景转3D
@@ -112,7 +128,9 @@
 
 
 ## Collections
-- [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X), 各种Segmentation论文&代码
+- [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)，关于事件相机的资源
+- [AutonomousVehiclePaper](https://github.com/DeepTecher/AutonomousVehiclePaper)，无人驾驶相关论文速递
+- [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X), Segmentation相关论文&代码
 - [CVPR-2019](https://github.com/amusi/CVPR2019-Code), CVPR 2019 论文开源项目合集
 - [awesome-slam](https://github.com/kanster/awesome-slam), SLAM合集
 - [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam), 视觉SLAM合集
@@ -133,6 +151,10 @@
 - [SLAM-Jobs](https://github.com/nebula-beta/SLAM-Jobs), SLAM/SFM求职指南
 
 ## Others
+- [awesome-reinforcement-learning-zh](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh),强化学习从入门到放弃的资料
+- [Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels](https://github.com/cszn/DPSR),CVPR 2019,超分辨
+- [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers), Cool resources about Fashion + AI.
+- [Deep Flow-Guided Video Inpainting](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting),CVPR 2019, **[[Paper](https://arxiv.org/pdf/1806.10447.pdf)]** ,图像修复
 - [YOLACT: Real-time Instance Segmentation](https://github.com/dbolya/yolact)
 - [LPRNet: License Plate Recognition via Deep Neural Networks](https://github.com/lyl8213/Plate_Recognition-LPRnet), **[[Paper](https://arxiv.org/pdf/1806.10447.pdf)]** 
 - [CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR), 运用tf实现自然场景文字检测
