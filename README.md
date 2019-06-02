@@ -2,6 +2,12 @@
 
 
 ## SLAM related
+- [Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera],ICRA 2019,**[[PDF](https://arxiv.org/pdf/1807.00275.pdf)]**, 优化LiDAR以及单目得到的深度图
+- [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://github.com/NVlabs/planercnn),CVPR 2019,**[[PDF](https://arxiv.org/pdf/1812.04072.pdf)]**,**[[Project Page](https://research.nvidia.com/publication/2019-06_PlaneRCNN)]**,通过单幅图像进行3D平面检测以及重建
+- [DBow3](https://github.com/kokerf/DBow3),注释版的DBow3代码
+- [Visual-Inertial Mapping with Non-Linear Factor Recovery](https://github.com/VladyslavUsenko/basalt-mirror),**[[PDF](https://arxiv.org/abs/1904.06504)]**,**[[Project Page](https://vision.in.tum.de/research/vslam/basalt)]**, 时空联合的VIO优化方案
+- [ICRA2019-paper-list](https://github.com/PaoPaoRobot/ICRA2019-paper-list),ICRA 2019论文列表（泡泡机器人出品暂时无链接）
+- [Fast Cylinder and Plane Extraction from Depth Cameras for Visual Odometry](https://github.com/pedropro/CAPE), IROS 2018,**[[PDF](https://arxiv.org/abs/1803.02380)]**,利用深度图进行圆柱检测以及平面检测进行VO
 - [Solutions to assignments of Robot Mapping Course WS 2013/14 by Dr. Cyrill Stachniss at University of Freiburg](https://github.com/kiran-mohan/SLAM-Algorithms-Octave),SLAM算法学习课后作业答案
 - [Direct sparse odometry combined with stereo cameras and IMU](https://github.com/RonaldSun/VI-Stereo-DSO),双目DSO+IMU
 - [Direct Sparse Odometry with Stereo Cameras](https://github.com/HorizonAD/stereo_dso),双目DSO
@@ -10,8 +16,8 @@
 - [ROS interface for ORBSLAM2](https://github.com/ethz-asl/orb_slam_2_ros),ROS版本的ORBSLAM2
 - [CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction](https://github.com/yan99033/CNN-SVO)， **[[Paper](https://arxiv.org/pdf/1810.01011.pdf)]**
 - [VINS-Mono-Learning](https://github.com/ManiiXu/VINS-Mono-Learning)，代码注释版VINS-Mono，初学者学习
-- [OpenVSLAM: Versatile Visual SLAM Framework](https://github.com/xdspacelab/openvslam),  **[[Project Page](https://openvslam.readthedocs.io/)]**
-- [RESLAM: A real-time robust edge-based SLAM system](https://github.com/fabianschenk/RESLAM), **[[Paper](https://github.com/fabianschenk/fabianschenk.github.io/raw/master/files/schenk_icra_2019.pdf)]**
+- [OpenVSLAM: Versatile Visual SLAM Framework](https://github.com/xdspacelab/openvslam), **[[Project Page](https://openvslam.readthedocs.io/)]**
+- [RESLAM: A real-time robust edge-based SLAM system](https://github.com/fabianschenk/RESLAM), ICRA 2019, **[[Paper](https://github.com/fabianschenk/fabianschenk.github.io/raw/master/files/schenk_icra_2019.pdf)]**
 - [PL-SLAM: a Stereo SLAM System through the Combination of Points and Line Segments](https://github.com/rubengooj/pl-slam), **[[Paper](https://arxiv.org/abs/1705.09479)]**，线特征SLAM
 - [Good Line Cutting: towards Accurate Pose Tracking of Line-assisted VO/VSLAM](https://github.com/YipuZhao/GF_PL_SLAM), ECCV 2018, **[[Project Page](https://sites.google.com/site/zhaoyipu/good-feature-visual-slam)]**, 改进的PL-SLAM
 - [Spherical Regression: Learning Viewpoints, Surface Normals and 3D Rotations on n-Spheres](https://github.com/leoshine/Spherical_Regression), CVPR 2019, **[[Paper](http://arxiv.org/abs/1904.05404)]**
@@ -72,6 +78,7 @@
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
 ## Depth/Disparity & Flow estimation 
+- [DPSNet: End-to-end Deep Plane Sweep Stereo](https://github.com/sunghoonim/DPSNet),ICLR 2019,**[[Paper](https://openreview.net/pdf?id=ryeYHi0ctQ)]**
 - [Fast Depth Densification for Occlusion-aware Augmented Reality](https://github.com/muskie82/AR-Depth-cpp), SIGGRAPH-Asia 2018, **[[Project Page](https://homes.cs.washington.edu/~holynski/publications/occlusion/index.html)]**,[another version](https://github.com/facebookresearch/AR-Depth)
 - [Learning To Adapt For Stereo](https://github.com/CVLAB-Unibo/Learning2AdaptForStereo), CVPR 2019, **[[Paper](https://arxiv.org/pdf/1904.02957)]**
 - [Pyramid Stereo Matching Network](https://github.com/JiaRenChang/PSMNet),**[[Paper](https://arxiv.org/abs/1803.08669)]** 
