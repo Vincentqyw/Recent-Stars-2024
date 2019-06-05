@@ -2,7 +2,8 @@
 
 
 ## SLAM related
-- [Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera],ICRA 2019,**[[PDF](https://arxiv.org/pdf/1807.00275.pdf)]**, 优化LiDAR以及单目得到的深度图
+- [Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation](https://github.com/oravus/seq2single),ICRA 2019,**[[PDF](https://arxiv.org/abs/1902.07381)]**, 跨大视角的场景重识别。
+- [Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera](https://github.com/fangchangma/self-supervised-depth-completion),ICRA 2019,**[[PDF](https://arxiv.org/pdf/1807.00275.pdf)]**, 优化LiDAR以及单目得到的深度图
 - [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://github.com/NVlabs/planercnn),CVPR 2019,**[[PDF](https://arxiv.org/pdf/1812.04072.pdf)]**,**[[Project Page](https://research.nvidia.com/publication/2019-06_PlaneRCNN)]**,通过单幅图像进行3D平面检测以及重建
 - [DBow3](https://github.com/kokerf/DBow3),注释版的DBow3代码
 - [Visual-Inertial Mapping with Non-Linear Factor Recovery](https://github.com/VladyslavUsenko/basalt-mirror),**[[PDF](https://arxiv.org/abs/1904.06504)]**,**[[Project Page](https://vision.in.tum.de/research/vslam/basalt)]**, 时空联合的VIO优化方案
