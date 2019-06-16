@@ -13,7 +13,9 @@
 - [Direct sparse odometry combined with stereo cameras and IMU](https://github.com/RonaldSun/VI-Stereo-DSO),双目DSO+IMU
 - [Direct Sparse Odometry with Stereo Cameras](https://github.com/HorizonAD/stereo_dso),双目DSO
 - [Python binding of SLAM graph optimization framework g2o](https://github.com/uoip/g2opy),python版本的g2o实现
-- [D2-Net: A Trainable CNN for Joint Description and Detection of Local Features](https://github.com/mihaidusmanu/d2-net), CVPR 2019, **[[Paper](https://arxiv.org/abs/1905.03561)]**, **[[Project Page](https://dsmn.ml/publications/d2-net.html)]**, 深度学习描述子
+- [SuperPoint: Self-Supervised Interest Point Detection and Description](https://github.com/rpautrat/SuperPoint), CVPR 2018, **[[Paper](https://arxiv.org/abs/1712.07629)]**, 深度学习描述子+描述
+- [ContextDesc: Local Descriptor Augmentation with Cross-Modality Context](https://github.com/lzx551402/contextdesc), CVPR 2019, **[[Paper](https://arxiv.org/abs/1904.04084)]**, 深度学习描述子
+- [D2-Net: A Trainable CNN for Joint Description and Detection of Local Features](https://github.com/mihaidusmanu/d2-net), CVPR 2019, **[[Paper](https://arxiv.org/abs/1905.03561)]**, **[[Project Page](https://dsmn.ml/publications/d2-net.html)]**, 深度学习关键点+描述
 - [ROS interface for ORBSLAM2](https://github.com/ethz-asl/orb_slam_2_ros),ROS版本的ORBSLAM2
 - [CNN-SVO: Improving the Mapping in Semi-Direct Visual Odometry Using Single-Image Depth Prediction](https://github.com/yan99033/CNN-SVO)， **[[Paper](https://arxiv.org/pdf/1810.01011.pdf)]**
 - [VINS-Mono-Learning](https://github.com/ManiiXu/VINS-Mono-Learning)，代码注释版VINS-Mono，初学者学习
@@ -132,8 +134,6 @@
 - [Julia](https://github.com/JuliaLang/julia)
 - [A Julia machine learning framework](https://github.com/alan-turing-institute/MLJ.jl)，一种基于Julia的机器学习框架
 
-![](https://github.com/alan-turing-institute/MLJ.jl/blob/master/doc/two_model_stack.png)
-
 
 ## Collections
 - [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)，关于事件相机的资源
@@ -175,4 +175,3 @@
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
