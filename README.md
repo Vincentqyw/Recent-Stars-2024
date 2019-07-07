@@ -78,6 +78,7 @@
 
 ## Pose/Object tracking
 - [Progressive Pose Attention for Person Image Generation](https://github.com/tengteng95/Pose-Transfer),CVPR 2019,**[[Paper](http://arxiv.org/abs/1904.03349)]**
+
 - [FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image](https://github.com/shamangary/FSA-Net), CVPR 2019,**[[Paper](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)]**[![GitHub stars](https://img.shields.io/github/stars/shamangary/FSA-Net.svg?logo=github&label=Stars)](https://github.com/shamangary/FSA-Net)
 - [An unoffical implemention for paper "Fast Human Pose Estimation"](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch), CVPR 2019,**[[Paper](https://arxiv.org/abs/1811.05419)]**
 - [Real-time single person pose estimation for Android and iOS](https://github.com/edvardHua/PoseEstimationForMobile),手机端实现人体位姿估计
@@ -96,6 +97,7 @@
 
 ## Depth/Disparity & Flow estimation 
 - [SCDA: Adapting Object Detectors via Selective Cross-Domain Alignment](https://github.com/WERush/SCDA),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)]**, **[[Project Page](http://zhuxinge.me/aboutme.html)]**
+
 - [Learning Single-Image Depth from Videos using Quality Assessment Networks](https://github.com/princeton-vl/YouTube3D),CVPR 2019, **[[Paper](https://arxiv.org/abs/1806.09573)]**, **[[Project Page](http://www-personal.umich.edu/~wfchen/youtube3d/)]**
 - [Learning monocular depth estimation infusing traditional stereo knowledge](https://github.com/fabiotosi92/monoResMatch-Tensorflow),CVPR 2019,**[[PDF](https://vision.disi.unibo.it/~ftosi/papers/monoResMatch.pdf)]**
 - [HPLFlowNet: Hierarchical Permutohedral Lattice FlowNet for Scene Flow Estimation on Large-scale Point Clouds](https://github.com/laoreja/HPLFlowNet),CVPR 2019,**[[Paper](hhttps://web.cs.ucdavis.edu/~yjlee/projects/cvpr2019-HPLFlowNet.pdf)]**
@@ -123,6 +125,7 @@
 
 ## 3D & Graphic
 - [ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://github.com/PRBonn/refusion), **[[Paper](https://arxiv.org/pdf/1905.02082.pdf)]** 
+
 - [densebody_pytorch](https://github.com/Lotayou/densebody_pytorch), **[[Paper](https://arxiv.org/abs/1903.10153v3)]** 
 - [Single-Image Piece-wise Planar 3D Reconstruction via Associative Embedding](https://github.com/svip-lab/PlanarReconstruction),CVPR 2019, **[[Paper](https://arxiv.org/pdf/1902.09777.pdf)]**, 单目3D重建
 - [HorizonNet: Learning Room Layout with 1D Representation and Pano Stretch Data Augmentation](https://github.com/sunset1995/HorizonNet),CVPR 2019, **[[Paper](https://arxiv.org/abs/1901.03861)]**, 深度学习全景转3D
@@ -131,6 +134,7 @@
 
 ## GAN
 - [End-to-end Adversarial Learning for Generative Conversational Agents](https://live.bilibili.com/7332534?visit_id=9ytrx9lpsy80)，2017，介绍了一种端到端的基于GAN的聊天机器人
+
 - [Residual Non-local Attention Networks for Image Restoration](https://github.com/yulunzhang/RNAN),ICLR 2019.
 - [MSGAN: Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis](https://github.com/HelenMao/MSGAN), CVPR 2019,**[[Paper](https://arxiv.org/abs/1903.05628)]**
 - [SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization](https://github.com/NVlabs/SPADE),CVPR 2019, **[[Project Page](https://nvlabs.github.io/SPADE/)]**
@@ -139,23 +143,27 @@
 
 ## Machine Learning
 - [The best resources around Machine Learning](https://github.com/RemoteML/bestofml)
+
 - [VGGFace2: A dataset for recognising faces across pose and age](https://github.com/cydonia999/VGGFace2-pytorch)
 - [Statistical learning methods](https://github.com/SmirkCao/Lihang)
 
 
 ## Deep Learning
 - [High-Performance Face Recognition Library on PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)，人脸识别库
+
 - [Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera)，深度学习教程（deeplearning.ai）
  
  
 
 ## Framework
 - [Julia](https://github.com/JuliaLang/julia)
+
 - [A Julia machine learning framework](https://github.com/alan-turing-institute/MLJ.jl)，一种基于Julia的机器学习框架
 
 
 ## Collections
 - [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)，关于事件相机的资源
+
 - [AutonomousVehiclePaper](https://github.com/DeepTecher/AutonomousVehiclePaper)，无人驾驶相关论文速递
 - [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X), Segmentation相关论文&代码
 - [CVPR-2019](https://github.com/amusi/CVPR2019-Code), CVPR 2019 论文开源项目合集
@@ -179,6 +187,7 @@
 
 ## Others
 - [awesome-reinforcement-learning-zh](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh),强化学习从入门到放弃的资料
+
 - [Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels](https://github.com/cszn/DPSR),CVPR 2019,超分辨
 - [Cool Fashion Papers](https://github.com/lzhbrian/Cool-Fashion-Papers), Cool resources about Fashion + AI.
 - [Deep Flow-Guided Video Inpainting](https://github.com/nbei/Deep-Flow-Guided-Video-Inpainting),CVPR 2019, **[[Paper](https://arxiv.org/pdf/1806.10447.pdf)]** ,图像修复
