@@ -2,6 +2,16 @@
 
 
 ## SLAM related
+- [PyRobot: An Open Source Robotics Research Platform](https://github.com/facebookresearch/pyrobot)
+- [From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net](https://github.com/ethz-asl/hfnet),**[[PDF](https://arxiv.org/abs/1812.03506)]**,[![GitHub stars](https://img.shields.io/github/stars/ethz-asl/hfnet.svg?logo=github&label=Stars)](https://github.com/ethz-asl/hfnet)
+- [Super fast implementation of ICP in CUDA](https://github.com/mp3guy/ICPCUDA),[![GitHub stars](https://img.shields.io/github/stars/mp3guy/ICPCUDA.svg?logo=github&label=Stars)](https://github.com/mp3guy/ICPCUDA)
+- [ A generic interface for disparity map and pointcloud insertion](https://github.com/ethz-asl/volumetric_mapping)
+- [SPHORB: A Fast and Robust Binary Feature on the Sphere](https://github.com/tdsuper/SPHORB),International Journal of Computer Vision 2015,**[[PDF](http://scs.tju.edu.cn/~lwan/paper/SPHORB/pdf/SPHORB-final-small.pdf)]**,**[[Project Page](http://scs.tju.edu.cn/~lwan/paper/SPHORB/SPHORB.html)]**
+
+- [BADSLAM: Bundle Adjusted Direct RGB-D SLAM](https://github.com/ETH3D/badslam),CVPR 2019,**[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Schops_BAD_SLAM_Bundle_Adjusted_Direct_RGB-D_SLAM_CVPR_2019_paper.pdf)]**
+- [High Speed and High Dynamic Range Video with an Event Camera](https://github.com/uzh-rpg/rpg_e2vid),arXiv,**[[PDF](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf)]**,**[[Project Page](http://rpg.ifi.uzh.ch/E2VID.html)]**
+- [Awesome-VIO](https://github.com/PaoPaoRobot/Awesome-VIO),Discuss about VIO in PaoPaoRobot group
+- [GyroAllan](https://github.com/XinLiGH/GyroAllan),陀螺仪随机误差的 Allan 方差分析, [Another version](https://github.com/rpng/kalibr_allan)
 - [Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation](https://github.com/oravus/seq2single),ICRA 2019,**[[PDF](https://arxiv.org/abs/1902.07381)]**, 跨大视角的场景重识别。
 - [Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera](https://github.com/fangchangma/self-supervised-depth-completion),ICRA 2019,**[[PDF](https://arxiv.org/pdf/1807.00275.pdf)]**, 优化LiDAR以及单目得到的深度图
 - [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://github.com/NVlabs/planercnn),CVPR 2019,**[[PDF](https://arxiv.org/pdf/1812.04072.pdf)]**,**[[Project Page](https://research.nvidia.com/publication/2019-06_PlaneRCNN)]**,通过单幅图像进行3D平面检测以及重建
@@ -67,6 +77,10 @@
 - [Real-time Manhattan World Rotation Estimation in 3D](https://github.com/jstraub/rtmf),IROS 2015,实时曼哈顿世界旋转估计
 
 ## Pose/Object tracking
+- [Progressive Pose Attention for Person Image Generation](https://github.com/tengteng95/Pose-Transfer),CVPR 2019,**[[Paper](http://arxiv.org/abs/1904.03349)]**
+- [FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image](https://github.com/shamangary/FSA-Net), CVPR 2019,**[[Paper](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)]**[![GitHub stars](https://img.shields.io/github/stars/shamangary/FSA-Net.svg?logo=github&label=Stars)](https://github.com/shamangary/FSA-Net)
+- [An unoffical implemention for paper "Fast Human Pose Estimation"](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch), CVPR 2019,**[[Paper](https://arxiv.org/abs/1811.05419)]**
+- [Real-time single person pose estimation for Android and iOS](https://github.com/edvardHua/PoseEstimationForMobile),手机端实现人体位姿估计
 - [Basics of 2D and 3D Human Pose Estimation](https://github.com/cbsudux/Human-Pose-Estimation-101),人体姿态估计入门
 - [Libra R-CNN: Towards Balanced Learning for Object Detection](https://github.com/OceanPang/Libra_R-CNN)
 - [High-resolution networks (HRNets) for object detection](https://github.com/HRNet/HRNet-Object-Detection), **[[Paper](https://arxiv.org/pdf/1904.04514.pdf)]**
@@ -81,6 +95,11 @@
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
 ## Depth/Disparity & Flow estimation 
+- [SCDA: Adapting Object Detectors via Selective Cross-Domain Alignment](https://github.com/WERush/SCDA),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)]**, **[[Project Page](http://zhuxinge.me/aboutme.html)]**
+- [Learning Single-Image Depth from Videos using Quality Assessment Networks](https://github.com/princeton-vl/YouTube3D),CVPR 2019, **[[Paper](https://arxiv.org/abs/1806.09573)]**, **[[Project Page](http://www-personal.umich.edu/~wfchen/youtube3d/)]**
+- [Learning monocular depth estimation infusing traditional stereo knowledge](https://github.com/fabiotosi92/monoResMatch-Tensorflow),CVPR 2019,**[[PDF](https://vision.disi.unibo.it/~ftosi/papers/monoResMatch.pdf)]**
+- [HPLFlowNet: Hierarchical Permutohedral Lattice FlowNet for Scene Flow Estimation on Large-scale Point Clouds](https://github.com/laoreja/HPLFlowNet),CVPR 2019,**[[Paper](hhttps://web.cs.ucdavis.edu/~yjlee/projects/cvpr2019-HPLFlowNet.pdf)]**
+- [GA-Net: Guided Aggregation Net for End-to-end Stereo Matching](https://github.com/feihuzhang/GANet),CVPR 2019,**[[Paper](https://arxiv.org/pdf/1904.06587.pdf)]**
 - [DPSNet: End-to-end Deep Plane Sweep Stereo](https://github.com/sunghoonim/DPSNet),ICLR 2019,**[[Paper](https://openreview.net/pdf?id=ryeYHi0ctQ)]**
 - [Fast Depth Densification for Occlusion-aware Augmented Reality](https://github.com/muskie82/AR-Depth-cpp), SIGGRAPH-Asia 2018, **[[Project Page](https://homes.cs.washington.edu/~holynski/publications/occlusion/index.html)]**,[another version](https://github.com/facebookresearch/AR-Depth)
 - [Learning To Adapt For Stereo](https://github.com/CVLAB-Unibo/Learning2AdaptForStereo), CVPR 2019, **[[Paper](https://arxiv.org/pdf/1904.02957)]**
@@ -100,7 +119,7 @@
 - [Light Filed Depth Estimation using GAN](https://github.com/kuantingchen04/Light-Field-Depth-Estimation)，利用GAN进行光场深度恢复
 - [EV-FlowNet: Self-Supervised Optical Flow for Event-based Cameras](https://github.com/daniilidis-group/EV-FlowNet),Proceedings of Robotics 2018,**[[Paper](https://arxiv.org/abs/1802.06898)]**
 - [DF-Net: Unsupervised Joint Learning of Depth and Flow using Cross-Task Consistency](https://github.com/vt-vl-lab/DF-Net), ECCV 2018, **[[Paper](https://arxiv.org/abs/1809.01649)]**
-- [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://github.com/yzcjtr/GeoNet), CVPR 2018, **[[Paper](https://arxiv.org/abs/1803.02276)]** 
+- [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://github.com/yzcjtr/GeoNet), CVPR 2018, **[[Paper](https://arxiv.org/abs/1803.02276)]**
 
 ## 3D & Graphic
 - [ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://github.com/PRBonn/refusion), **[[Paper](https://arxiv.org/pdf/1905.02082.pdf)]** 
