@@ -2,6 +2,7 @@
 
 
 ## SLAM related
+- [SuperPoint-SLAM](https://github.com/KinglittleQ/SuperPoint_SLAM),利用SuperPoint替换ORB特征点,[![GitHub stars](https://img.shields.io/github/stars/KinglittleQ/SuperPoint_SLAM.svg?logo=github&label=Stars)](https://github.com/KinglittleQ/SuperPoint_SLAM)
 - [PyRobot: An Open Source Robotics Research Platform](https://github.com/facebookresearch/pyrobot),[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/pyrobot.svg?logo=github&label=Stars)](https://github.com/facebookresearch/pyrobot)
 - [From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net](https://github.com/ethz-asl/hfnet),**[[PDF](https://arxiv.org/abs/1812.03506)]**,[![GitHub stars](https://img.shields.io/github/stars/ethz-asl/hfnet.svg?logo=github&label=Stars)](https://github.com/ethz-asl/hfnet)
 - [Super fast implementation of ICP in CUDA](https://github.com/mp3guy/ICPCUDA),[![GitHub stars](https://img.shields.io/github/stars/mp3guy/ICPCUDA.svg?logo=github&label=Stars)](https://github.com/mp3guy/ICPCUDA)
@@ -96,6 +97,8 @@
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
 ## Depth/Disparity & Flow estimation 
+- [Learning Single-Image Depth from Videos using Quality Assessment Networks](https://github.com/princeton-vl/YouTube3D),CVPR 2019, **[[Paper](https://arxiv.org/abs/1806.09573)]**, **[[Project Page](http://www-personal.umich.edu/~wfchen/youtube3d/)]**,[![GitHub stars](https://img.shields.io/github/stars/princeton-vl/YouTube3D.svg?logo=github&label=Stars)](https://github.com/princeton-vl/YouTube3D)
+
 - [SCDA: Adapting Object Detectors via Selective Cross-Domain Alignment](https://github.com/WERush/SCDA),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)]**, **[[Project Page](http://zhuxinge.me/aboutme.html)]**
 
 - [Learning Single-Image Depth from Videos using Quality Assessment Networks](https://github.com/princeton-vl/YouTube3D),CVPR 2019, **[[Paper](https://arxiv.org/abs/1806.09573)]**, **[[Project Page](http://www-personal.umich.edu/~wfchen/youtube3d/)]**
@@ -124,6 +127,7 @@
 - [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://github.com/yzcjtr/GeoNet), CVPR 2018, **[[Paper](https://arxiv.org/abs/1803.02276)]**
 
 ## 3D & Graphic
+- [KillingFusion](https://github.com/saurabheights/KillingFusion),[![GitHub stars](https://img.shields.io/github/stars/saurabheights/KillingFusion.svg?logo=github&label=Stars)](https://github.com/saurabheights/KillingFusion)
 - [ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://github.com/PRBonn/refusion), **[[Paper](https://arxiv.org/pdf/1905.02082.pdf)]** 
 
 - [densebody_pytorch](https://github.com/Lotayou/densebody_pytorch), **[[Paper](https://arxiv.org/abs/1903.10153v3)]** 
