@@ -2,6 +2,16 @@
 
 
 ## SLAM related
+
+
+- [SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://github.com/scape-research/SOSNet),CVPR 2019,**[[Project page]](https://research.scape.io/sosnet/)** **[[Paper]](https://arxiv.org/abs/1904.05019)** **[[Poster]](imgs/sosnet-poster.pdf)** **[[Slides]](imgs/sosnet-oral.pdf)**，一种深度学习特征描述子，[![GitHub stars](https://img.shields.io/github/stars/scape-research/SOSNet.svg?logo=github&label=Stars)](https://github.com/scape-research/SOSNet)
+- [Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation](https://github.com/oravus/seq2single),ICRA 2019,**[[PDF](https://arxiv.org/abs/1902.07381)]**,利用深度图像实现了大视角长时间的场景识别（根据深度图筛选得到不同深度层次的特征点然后与当前帧进行匹配，提高了场景召回率），[![GitHub stars](https://img.shields.io/github/stars/oravus/seq2single.svg?logo=github&label=Stars)](https://github.com/oravus/seq2single)
+- [CALC2.0](https://github.com/rpng/calc2.0),Convolutional Autoencoder for Loop Closure 2.0,用于闭环检测，[![GitHub stars](https://img.shields.io/github/stars/rpng/calc2.0.svg?logo=github&label=Stars)](https://github.com/rpng/calc2.0)
+- [SegMap](https://github.com/ethz-asl/segmap),RSS 2018,**[[PDF](http://www.roboticsproceedings.org/rss14/p03.pdf)]**, 一种基于3D线段的地图表示，可用于场景识别/机器人定位/环境重建等，[![GitHub stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg?logo=github&label=Stars)](https://github.com/ethz-asl/segmap)
+- [MSCKF_VIO](https://github.com/cggos/msckf_vio_cg), a stereo version of MSCKF，基于MSCKF的双目VIO,[![GitHub stars](https://img.shields.io/github/stars/cggos/msckf_vio_cg.svg?logo=github&label=Stars)](https://github.com/cggos/msckf_vio_cg)
+- [Matching Features Without Descriptors: Implicitly Matched Interest Points](https://github.com/uzh-rpg/imips_open),BMVC 2019,**[[PDF](http://rpg.ifi.uzh.ch/docs/BMVC19_Cieslewski.pdf)]**,RPG实验室出品，无需特征描述即可进行特征匹配,[![GitHub stars](https://img.shields.io/github/stars/uzh-rpg/imips_open.svg?logo=github&label=Stars)](https://github.com/uzh-rpg/imips_open)
+- [NetVLAD: CNN architecture for weakly supervised place recognition](https://github.com/Relja/netvlad)，CVPR 2016, CNN框架弱监督学习场景识别,**[[Project Page](https://www.di.ens.fr/willow/research/netvlad/)]**,[![GitHub stars](https://img.shields.io/github/stars/Relja/netvlad.svg?logo=github&label=Stars)](https://github.com/Relja/netvlad)，[Python version](https://github.com/uzh-rpg/netvlad_tf_open)
+- [easy_handeye](https://github.com/IFL-CAMP/easy_handeye),Simple, straighforward ROS library for hand-eye calibration,[![GitHub stars](https://img.shields.io/github/stars/IFL-CAMP/easy_handeye.svg?logo=github&label=Stars)](https://github.com/IFL-CAMP/easy_handeye)
 - [SuperPoint-SLAM](https://github.com/KinglittleQ/SuperPoint_SLAM),利用SuperPoint替换ORB特征点,[![GitHub stars](https://img.shields.io/github/stars/KinglittleQ/SuperPoint_SLAM.svg?logo=github&label=Stars)](https://github.com/KinglittleQ/SuperPoint_SLAM)
 - [PyRobot: An Open Source Robotics Research Platform](https://github.com/facebookresearch/pyrobot),[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/pyrobot.svg?logo=github&label=Stars)](https://github.com/facebookresearch/pyrobot)
 - [From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net](https://github.com/ethz-asl/hfnet),**[[PDF](https://arxiv.org/abs/1812.03506)]**,[![GitHub stars](https://img.shields.io/github/stars/ethz-asl/hfnet.svg?logo=github&label=Stars)](https://github.com/ethz-asl/hfnet)
@@ -78,9 +88,11 @@
 - [Real-time Manhattan World Rotation Estimation in 3D](https://github.com/jstraub/rtmf),IROS 2015,实时曼哈顿世界旋转估计
 
 ## Pose/Object tracking
+- [A tiny, friendly, strong pytorch implement of person re-identification baseline. Tutorial](https://github.com/layumi/Person_reID_baseline_pytorch),CVPR 2019,  **[[Paper](https://arxiv.org/abs/1904.07223)],**[![GitHub stars](https://img.shields.io/github/stars/layumi/Person_reID_baseline_pytorch.svg?logo=github&label=Stars)](https://github.com/layumi/Person_reID_baseline_pytorch)
+
 - [Progressive Pose Attention for Person Image Generation](https://github.com/tengteng95/Pose-Transfer),CVPR 2019,**[[Paper](http://arxiv.org/abs/1904.03349)]**
 
-- [FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image](https://github.com/shamangary/FSA-Net), CVPR 2019,**[[Paper](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)]**[![GitHub stars](https://img.shields.io/github/stars/shamangary/FSA-Net.svg?logo=github&label=Stars)](https://github.com/shamangary/FSA-Net)
+- [FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image](https://github.com/shamangary/FSA-Net), CVPR 2019,**[[Paper](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)],**[![GitHub stars](https://img.shields.io/github/stars/shamangary/FSA-Net.svg?logo=github&label=Stars)](https://github.com/shamangary/FSA-Net)
 - [An unoffical implemention for paper "Fast Human Pose Estimation"](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch), CVPR 2019,**[[Paper](https://arxiv.org/abs/1811.05419)]**
 - [Real-time single person pose estimation for Android and iOS](https://github.com/edvardHua/PoseEstimationForMobile),手机端实现人体位姿估计
 - [Basics of 2D and 3D Human Pose Estimation](https://github.com/cbsudux/Human-Pose-Estimation-101),人体姿态估计入门
@@ -97,6 +109,8 @@
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
 ## Depth/Disparity & Flow estimation 
+- [DeepLiDAR](https://github.com/JiaxiongQ/DeepLiDAR),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf)]**, 单张RGB图像+稀疏雷达数据进行室外场景深度估计
+- [Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer](https://github.com/atapour/monocularDepth-Inference),CVPR 2018, **[[Paper](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf)]**
 - [Learning Single-Image Depth from Videos using Quality Assessment Networks](https://github.com/princeton-vl/YouTube3D),CVPR 2019, **[[Paper](https://arxiv.org/abs/1806.09573)]**, **[[Project Page](http://www-personal.umich.edu/~wfchen/youtube3d/)]**,[![GitHub stars](https://img.shields.io/github/stars/princeton-vl/YouTube3D.svg?logo=github&label=Stars)](https://github.com/princeton-vl/YouTube3D)
 
 - [SCDA: Adapting Object Detectors via Selective Cross-Domain Alignment](https://github.com/WERush/SCDA),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)]**, **[[Project Page](http://zhuxinge.me/aboutme.html)]**
