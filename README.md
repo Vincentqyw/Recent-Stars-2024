@@ -1,9 +1,16 @@
 # :star:Recent Stars:star:
 
+✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.
+
+## Contribute
+
+❤ Please feel free to pull requests to add links.
 
 ## SLAM related
 
-
+- [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets),史上最全SLAM数据集，[![GitHub stars](https://img.shields.io/github/stars/youngguncho/awesome-slam-datasets.svg?logo=github&label=Stars)](https://github.com/youngguncho/awesome-slam-datasets) **[公众号说明: 最全 SLAM 开源数据集](https://mp.weixin.qq.com/s/BzcghUnXTR9RQqA3Pc9MhA)**
+- [GNSS-INS-SIM](https://github.com/Aceinna/gnss-ins-sim),惯导融合模拟器，支持IMU数据，轨迹生成等，[![GitHub stars](https://img.shields.io/github/stars/Aceinna/gnss-ins-sim.svg?logo=github&label=Stars)](https://github.com/Aceinna/gnss-ins-sim)
+- [Multi-Sensor Combined Navigation Program(GNSS, IMU, Camera and so on) 多源多传感器融合定位 GPS/INS组合导航](https://github.com/2013fangwentao/Multi-Sensor-Combined-Navigation)，[![GitHub stars](https://img.shields.io/github/stars/2013fangwentao/Multi-Sensor-Combined-Navigation.svg?logo=github&label=Stars)](https://github.com/2013fangwentao/Multi-Sensor-Combined-Navigation)
 - [SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://github.com/scape-research/SOSNet),CVPR 2019,**[[Project page]](https://research.scape.io/sosnet/)** **[[Paper]](https://arxiv.org/abs/1904.05019)** **[[Poster]](imgs/sosnet-poster.pdf)** **[[Slides]](imgs/sosnet-oral.pdf)**，一种深度学习特征描述子，[![GitHub stars](https://img.shields.io/github/stars/scape-research/SOSNet.svg?logo=github&label=Stars)](https://github.com/scape-research/SOSNet)
 - [Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation](https://github.com/oravus/seq2single),ICRA 2019,**[[PDF](https://arxiv.org/abs/1902.07381)]**,利用深度图像实现了大视角长时间的场景识别（根据深度图筛选得到不同深度层次的特征点然后与当前帧进行匹配，提高了场景召回率），[![GitHub stars](https://img.shields.io/github/stars/oravus/seq2single.svg?logo=github&label=Stars)](https://github.com/oravus/seq2single)
 - [CALC2.0](https://github.com/rpng/calc2.0),Convolutional Autoencoder for Loop Closure 2.0,用于闭环检测，[![GitHub stars](https://img.shields.io/github/stars/rpng/calc2.0.svg?logo=github&label=Stars)](https://github.com/rpng/calc2.0)
@@ -88,6 +95,7 @@
 - [Real-time Manhattan World Rotation Estimation in 3D](https://github.com/jstraub/rtmf),IROS 2015,实时曼哈顿世界旋转估计
 
 ## Pose/Object tracking
+- [Spatial-Temporal Person Re-identification](https://github.com/Wanggcong/Spatial-Temporal-Re-identification),AAAI 2019,**[[Paper](https://arxiv.org/abs/1812.03282)]**
 - [A tiny, friendly, strong pytorch implement of person re-identification baseline. Tutorial](https://github.com/layumi/Person_reID_baseline_pytorch),CVPR 2019,  **[[Paper](https://arxiv.org/abs/1904.07223)],**[![GitHub stars](https://img.shields.io/github/stars/layumi/Person_reID_baseline_pytorch.svg?logo=github&label=Stars)](https://github.com/layumi/Person_reID_baseline_pytorch)
 
 - [Progressive Pose Attention for Person Image Generation](https://github.com/tengteng95/Pose-Transfer),CVPR 2019,**[[Paper](http://arxiv.org/abs/1904.03349)]**
@@ -109,6 +117,7 @@
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
 ## Depth/Disparity & Flow estimation 
+- [PointMVSNet: Point-based Multi-view Stereo Network](https://github.com/callmeray/PointMVSNet),ICCV 2019,**[[Paper](https://arxiv.org/abs/1908.04422)]**，[![GitHub stars](https://img.shields.io/github/stars/callmeray/PointMVSNet.svg?logo=github&label=Stars)](https://github.com/callmeray/PointMVSNet)
 - [DeepLiDAR](https://github.com/JiaxiongQ/DeepLiDAR),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf)]**, 单张RGB图像+稀疏雷达数据进行室外场景深度估计
 - [Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer](https://github.com/atapour/monocularDepth-Inference),CVPR 2018, **[[Paper](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf)]**
 - [Learning Single-Image Depth from Videos using Quality Assessment Networks](https://github.com/princeton-vl/YouTube3D),CVPR 2019, **[[Paper](https://arxiv.org/abs/1806.09573)]**, **[[Project Page](http://www-personal.umich.edu/~wfchen/youtube3d/)]**,[![GitHub stars](https://img.shields.io/github/stars/princeton-vl/YouTube3D.svg?logo=github&label=Stars)](https://github.com/princeton-vl/YouTube3D)
@@ -204,6 +213,8 @@
 - [SLAM-Jobs](https://github.com/nebula-beta/SLAM-Jobs), SLAM/SFM求职指南
 
 ## Others
+- [深度学习OCR](https://github.com/Bartzi/stn-ocr)
+- [西瓜书🍉学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
 - [awesome-reinforcement-learning-zh](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh),强化学习从入门到放弃的资料
 
 - [Deep Plug-and-Play Super-Resolution for Arbitrary Blur Kernels](https://github.com/cszn/DPSR),CVPR 2019,超分辨
