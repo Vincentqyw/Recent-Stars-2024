@@ -8,33 +8,53 @@
 
 ## SLAM related
 
-- [SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning](https://github.com/uzh-rpg/sips2_open),3D Vision (3DV) 2019,**[[PDF](https://arxiv.org/abs/1805.01358)]**，RPG实验室出品，深度学习特征点（有特征描述子）,[![GitHub stars](https://img.shields.io/github/stars/uzh-rpg/sips2_open.svg?logo=github&label=Stars)](https://github.com/uzh-rpg/sips2_open)
-- [Matching Features Without Descriptors: Implicitly Matched Interest Points](https://github.com/uzh-rpg/imips_open),BMVC 2019,**[[PDF](http://rpg.ifi.uzh.ch/docs/BMVC19_Cieslewski.pdf)]**,RPG实验室出品，无需特征描述即可进行特征匹配,[![GitHub stars](https://img.shields.io/github/stars/uzh-rpg/imips_open.svg?logo=github&label=Stars)](https://github.com/uzh-rpg/imips_open)
+- [SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning](https://github.com/uzh-rpg/sips2_open),3D Vision (3DV) 2019,**[[PDF](https://arxiv.org/abs/1805.01358)]**，RPG实验室出品，深度学习特征点（有特征描述子）
+
+- [Matching Features Without Descriptors: Implicitly Matched Interest Points](https://github.com/uzh-rpg/imips_open),BMVC 2019,**[[PDF](http://rpg.ifi.uzh.ch/docs/BMVC19_Cieslewski.pdf)]**,RPG实验室出品，无需特征描述即可进行特征匹配
+
 - [Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)](https://github.com/cardwing/Codes-for-Lane-Detection),ICCV 2019,**[[PDF](https://arxiv.org/abs/1908.00821)]**，深度学习道路检测
-- [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets),史上最全SLAM数据集，[![GitHub stars](https://img.shields.io/github/stars/youngguncho/awesome-slam-datasets.svg?logo=github&label=Stars)](https://github.com/youngguncho/awesome-slam-datasets) **[公众号说明: 最全 SLAM 开源数据集](https://mp.weixin.qq.com/s/BzcghUnXTR9RQqA3Pc9MhA)**
-- [GNSS-INS-SIM](https://github.com/Aceinna/gnss-ins-sim),惯导融合模拟器，支持IMU数据，轨迹生成等，[![GitHub stars](https://img.shields.io/github/stars/Aceinna/gnss-ins-sim.svg?logo=github&label=Stars)](https://github.com/Aceinna/gnss-ins-sim)
-- [Multi-Sensor Combined Navigation Program(GNSS, IMU, Camera and so on) 多源多传感器融合定位 GPS/INS组合导航](https://github.com/2013fangwentao/Multi-Sensor-Combined-Navigation)，[![GitHub stars](https://img.shields.io/github/stars/2013fangwentao/Multi-Sensor-Combined-Navigation.svg?logo=github&label=Stars)](https://github.com/2013fangwentao/Multi-Sensor-Combined-Navigation)
-- [SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://github.com/scape-research/SOSNet),CVPR 2019,**[[Project page]](https://research.scape.io/sosnet/)** **[[Paper]](https://arxiv.org/abs/1904.05019)** **[[Poster]](imgs/sosnet-poster.pdf)** **[[Slides]](imgs/sosnet-oral.pdf)**，一种深度学习特征描述子，[![GitHub stars](https://img.shields.io/github/stars/scape-research/SOSNet.svg?logo=github&label=Stars)](https://github.com/scape-research/SOSNet)
-- [Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation](https://github.com/oravus/seq2single),ICRA 2019,**[[PDF](https://arxiv.org/abs/1902.07381)]**,利用深度图像实现了大视角长时间的场景识别（根据深度图筛选得到不同深度层次的特征点然后与当前帧进行匹配，提高了场景召回率），[![GitHub stars](https://img.shields.io/github/stars/oravus/seq2single.svg?logo=github&label=Stars)](https://github.com/oravus/seq2single)
-- [CALC2.0](https://github.com/rpng/calc2.0),Convolutional Autoencoder for Loop Closure 2.0,用于闭环检测，[![GitHub stars](https://img.shields.io/github/stars/rpng/calc2.0.svg?logo=github&label=Stars)](https://github.com/rpng/calc2.0)
-- [SegMap](https://github.com/ethz-asl/segmap),RSS 2018,**[[PDF](http://www.roboticsproceedings.org/rss14/p03.pdf)]**, 一种基于3D线段的地图表示，可用于场景识别/机器人定位/环境重建等，[![GitHub stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg?logo=github&label=Stars)](https://github.com/ethz-asl/segmap)
-- [MSCKF_VIO](https://github.com/cggos/msckf_vio_cg), a stereo version of MSCKF，基于MSCKF的双目VIO,[![GitHub stars](https://img.shields.io/github/stars/cggos/msckf_vio_cg.svg?logo=github&label=Stars)](https://github.com/cggos/msckf_vio_cg)
 
-- [NetVLAD: CNN architecture for weakly supervised place recognition](https://github.com/Relja/netvlad)，CVPR 2016, CNN框架弱监督学习场景识别,**[[Project Page](https://www.di.ens.fr/willow/research/netvlad/)]**,[![GitHub stars](https://img.shields.io/github/stars/Relja/netvlad.svg?logo=github&label=Stars)](https://github.com/Relja/netvlad)，[Python version](https://github.com/uzh-rpg/netvlad_tf_open)
-- [easy_handeye](https://github.com/IFL-CAMP/easy_handeye),Simple, straighforward ROS library for hand-eye calibration,[![GitHub stars](https://img.shields.io/github/stars/IFL-CAMP/easy_handeye.svg?logo=github&label=Stars)](https://github.com/IFL-CAMP/easy_handeye)
-- [SuperPoint-SLAM](https://github.com/KinglittleQ/SuperPoint_SLAM),利用SuperPoint替换ORB特征点,[![GitHub stars](https://img.shields.io/github/stars/KinglittleQ/SuperPoint_SLAM.svg?logo=github&label=Stars)](https://github.com/KinglittleQ/SuperPoint_SLAM)
-- [PyRobot: An Open Source Robotics Research Platform](https://github.com/facebookresearch/pyrobot),[![GitHub stars](https://img.shields.io/github/stars/facebookresearch/pyrobot.svg?logo=github&label=Stars)](https://github.com/facebookresearch/pyrobot)
-- [From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net](https://github.com/ethz-asl/hfnet),**[[PDF](https://arxiv.org/abs/1812.03506)]**,[![GitHub stars](https://img.shields.io/github/stars/ethz-asl/hfnet.svg?logo=github&label=Stars)](https://github.com/ethz-asl/hfnet)
-- [Super fast implementation of ICP in CUDA](https://github.com/mp3guy/ICPCUDA),[![GitHub stars](https://img.shields.io/github/stars/mp3guy/ICPCUDA.svg?logo=github&label=Stars)](https://github.com/mp3guy/ICPCUDA)
-- [ A generic interface for disparity map and pointcloud insertion](https://github.com/ethz-asl/volumetric_mapping),[![GitHub stars](https://img.shields.io/github/stars/ethz-asl/volumetric_mapping.svg?logo=github&label=Stars)](https://github.com/ethz-asl/volumetric_mapping)
-- [SPHORB: A Fast and Robust Binary Feature on the Sphere](https://github.com/tdsuper/SPHORB),International Journal of Computer Vision 2015,**[[PDF](http://scs.tju.edu.cn/~lwan/paper/SPHORB/pdf/SPHORB-final-small.pdf)]**,**[[Project Page](http://scs.tju.edu.cn/~lwan/paper/SPHORB/SPHORB.html)]**,[![GitHub stars](https://img.shields.io/github/stars/tdsuper/SPHORB.svg?logo=github&label=Stars)](https://github.com/tdsuper/SPHORB)
+- [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets),史上最全SLAM数据集， **[公众号说明: 最全 SLAM 开源数据集](https://mp.weixin.qq.com/s/BzcghUnXTR9RQqA3Pc9MhA)**
 
-- [BADSLAM: Bundle Adjusted Direct RGB-D SLAM](https://github.com/ETH3D/badslam),CVPR 2019,**[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Schops_BAD_SLAM_Bundle_Adjusted_Direct_RGB-D_SLAM_CVPR_2019_paper.pdf)]**,[![GitHub stars](https://img.shields.io/github/stars/ETH3D/badslam.svg?logo=github&label=Stars)](https://github.com/ETH3D/badslam)
-- [High Speed and High Dynamic Range Video with an Event Camera](https://github.com/uzh-rpg/rpg_e2vid),arXiv,**[[PDF](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf)]**,**[[Project Page](http://rpg.ifi.uzh.ch/E2VID.html)]**,[![GitHub stars](https://img.shields.io/github/stars/uzh-rpg/rpg_e2vid.svg?logo=github&label=Stars)](https://github.com/uzh-rpg/rpg_e2vid)
-- [Awesome-VIO](https://github.com/PaoPaoRobot/Awesome-VIO),Discuss about VIO in PaoPaoRobot group,[![GitHub stars](https://img.shields.io/github/stars/PaoPaoRobot/Awesome-VIO.svg?logo=github&label=Stars)](https://github.com/PaoPaoRobot/Awesome-VIO)
-- [GyroAllan](https://github.com/XinLiGH/GyroAllan),陀螺仪随机误差的 Allan 方差分析, [Another version](https://github.com/rpng/kalibr_allan),[![GitHub stars](https://img.shields.io/github/stars/rpng/kalibr_allan.svg?logo=github&label=Stars)](https://github.com/rpng/kalibr_allan)
-- [Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation](https://github.com/oravus/seq2single),ICRA 2019,**[[PDF](https://arxiv.org/abs/1902.07381)]**, 跨大视角的场景重识别,[![GitHub stars](https://img.shields.io/github/stars/oravus/seq2single.svg?logo=github&label=Stars)](https://github.com/oravus/seq2single)
-- [Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera](https://github.com/fangchangma/self-supervised-depth-completion),ICRA 2019,**[[PDF](https://arxiv.org/pdf/1807.00275.pdf)]**, 优化LiDAR以及单目得到的深度图,[![GitHub stars](https://img.shields.io/github/stars/fangchangma/self-supervised-depth-completion.svg?logo=github&label=Stars)](https://github.com/fangchangma/self-supervised-depth-completion)
+- [GNSS-INS-SIM](https://github.com/Aceinna/gnss-ins-sim),惯导融合模拟器，支持IMU数据，轨迹生成等
+
+- [Multi-Sensor Combined Navigation Program(GNSS, IMU, Camera and so on) 多源多传感器融合定位 GPS/INS组合导航](https://github.com/2013fangwentao/Multi-Sensor-Combined-Navigation)
+
+- [SOSNet: Second Order Similarity Regularization for Local Descriptor Learning](https://github.com/scape-research/SOSNet),CVPR 2019,**[[Project page]](https://research.scape.io/sosnet/)** **[[Paper]](https://arxiv.org/abs/1904.05019)** **[[Poster]](imgs/sosnet-poster.pdf)** **[[Slides]](imgs/sosnet-oral.pdf)**，一种深度学习特征描述子
+
+- [Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation](https://github.com/oravus/seq2single),ICRA 2019,**[[PDF](https://arxiv.org/abs/1902.07381)]**,利用深度图像实现了大视角长时间的场景识别（根据深度图筛选得到不同深度层次的特征点然后与当前帧进行匹配，提高了场景召回率）
+
+- [CALC2.0](https://github.com/rpng/calc2.0),Convolutional Autoencoder for Loop Closure 2.0,用于闭环检测
+
+- [SegMap](https://github.com/ethz-asl/segmap),RSS 2018,**[[PDF](http://www.roboticsproceedings.org/rss14/p03.pdf)]**, 一种基于3D线段的地图表示，可用于场景识别/机器人定位/环境重建等
+
+- [MSCKF_VIO](https://github.com/cggos/msckf_vio_cg), a stereo version of MSCKF，基于MSCKF的双目VIO
+
+- [NetVLAD: CNN architecture for weakly supervised place recognition](https://github.com/Relja/netvlad)，CVPR 2016, CNN框架弱监督学习场景识别,**[[Project Page](https://www.di.ens.fr/willow/research/netvlad/)]**
+
+- [easy_handeye](https://github.com/IFL-CAMP/easy_handeye),Simple, straighforward ROS library for hand-eye calibration
+
+- [SuperPoint-SLAM](https://github.com/KinglittleQ/SuperPoint_SLAM),利用SuperPoint替换ORB特征点
+
+- [PyRobot: An Open Source Robotics Research Platform](https://github.com/facebookresearch/pyrobot)
+
+- [From Coarse to Fine: Robust Hierarchical Localization at Large Scale with HF-Net](https://github.com/ethz-asl/hfnet),**[[PDF](https://arxiv.org/abs/1812.03506)]**
+
+- [Super fast implementation of ICP in CUDA](https://github.com/mp3guy/ICPCUDA)
+
+- [ A generic interface for disparity map and pointcloud insertion](https://github.com/ethz-asl/volumetric_mapping)
+
+- [SPHORB: A Fast and Robust Binary Feature on the Sphere](https://github.com/tdsuper/SPHORB),International Journal of Computer Vision 2015,**[[PDF](http://scs.tju.edu.cn/~lwan/paper/SPHORB/pdf/SPHORB-final-small.pdf)]**,**[[Project Page](http://scs.tju.edu.cn/~lwan/paper/SPHORB/SPHORB.html)]**
+
+- [BADSLAM: Bundle Adjusted Direct RGB-D SLAM](https://github.com/ETH3D/badslam),CVPR 2019,**[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Schops_BAD_SLAM_Bundle_Adjusted_Direct_RGB-D_SLAM_CVPR_2019_paper.pdf)]**
+
+- [High Speed and High Dynamic Range Video with an Event Camera](https://github.com/uzh-rpg/rpg_e2vid),arXiv,**[[PDF](http://rpg.ifi.uzh.ch/docs/arXiv19_Rebecq.pdf)]**,**[[Project Page](http://rpg.ifi.uzh.ch/E2VID.html)]**
+
+- [Awesome-VIO](https://github.com/PaoPaoRobot/Awesome-VIO),Discuss about VIO in PaoPaoRobot group
+- [GyroAllan](https://github.com/XinLiGH/GyroAllan),陀螺仪随机误差的 Allan 方差分析, [Another version](https://github.com/rpng/kalibr_allan)
+- [Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation](https://github.com/oravus/seq2single),ICRA 2019,**[[PDF](https://arxiv.org/abs/1902.07381)]**, 跨大视角的场景重识别
+
+- [Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera](https://github.com/fangchangma/self-supervised-depth-completion),ICRA 2019,**[[PDF](https://arxiv.org/pdf/1807.00275.pdf)]**, 优化LiDAR以及单目得到的深度图
 - [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://github.com/NVlabs/planercnn),CVPR 2019,**[[PDF](https://arxiv.org/pdf/1812.04072.pdf)]**,**[[Project Page](https://research.nvidia.com/publication/2019-06_PlaneRCNN)]**,通过单幅图像进行3D平面检测以及重建
 - [DBow3](https://github.com/kokerf/DBow3),注释版的DBow3代码
 - [Visual-Inertial Mapping with Non-Linear Factor Recovery](https://github.com/VladyslavUsenko/basalt-mirror),**[[PDF](https://arxiv.org/abs/1904.06504)]**,**[[Project Page](https://vision.in.tum.de/research/vslam/basalt)]**, 时空联合的VIO优化方案
@@ -99,11 +119,11 @@
 
 ## Pose/Object tracking
 - [Spatial-Temporal Person Re-identification](https://github.com/Wanggcong/Spatial-Temporal-Re-identification),AAAI 2019,**[[Paper](https://arxiv.org/abs/1812.03282)]**
-- [A tiny, friendly, strong pytorch implement of person re-identification baseline. Tutorial](https://github.com/layumi/Person_reID_baseline_pytorch),CVPR 2019,  **[[Paper](https://arxiv.org/abs/1904.07223)],**[![GitHub stars](https://img.shields.io/github/stars/layumi/Person_reID_baseline_pytorch.svg?logo=github&label=Stars)](https://github.com/layumi/Person_reID_baseline_pytorch)
+- [A tiny, friendly, strong pytorch implement of person re-identification baseline. Tutorial](https://github.com/layumi/Person_reID_baseline_pytorch),CVPR 2019,  **[[Paper](https://arxiv.org/abs/1904.07223)]**
 
 - [Progressive Pose Attention for Person Image Generation](https://github.com/tengteng95/Pose-Transfer),CVPR 2019,**[[Paper](http://arxiv.org/abs/1904.03349)]**
 
-- [FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image](https://github.com/shamangary/FSA-Net), CVPR 2019,**[[Paper](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)],**[![GitHub stars](https://img.shields.io/github/stars/shamangary/FSA-Net.svg?logo=github&label=Stars)](https://github.com/shamangary/FSA-Net)
+- [FSA-Net: Learning Fine-Grained Structure Aggregation for Head Pose Estimation from a Single Image](https://github.com/shamangary/FSA-Net), CVPR 2019,**[[Paper](https://github.com/shamangary/FSA-Net/blob/master/0191.pdf)]**
 - [An unoffical implemention for paper "Fast Human Pose Estimation"](https://github.com/yuanyuanli85/Fast_Human_Pose_Estimation_Pytorch), CVPR 2019,**[[Paper](https://arxiv.org/abs/1811.05419)]**
 - [Real-time single person pose estimation for Android and iOS](https://github.com/edvardHua/PoseEstimationForMobile),手机端实现人体位姿估计
 - [Basics of 2D and 3D Human Pose Estimation](https://github.com/cbsudux/Human-Pose-Estimation-101),人体姿态估计入门
@@ -120,10 +140,11 @@
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
 ## Depth/Disparity & Flow estimation 
-- [PointMVSNet: Point-based Multi-view Stereo Network](https://github.com/callmeray/PointMVSNet),ICCV 2019,**[[Paper](https://arxiv.org/abs/1908.04422)]**，[![GitHub stars](https://img.shields.io/github/stars/callmeray/PointMVSNet.svg?logo=github&label=Stars)](https://github.com/callmeray/PointMVSNet)
+
+- [PointMVSNet: Point-based Multi-view Stereo Network](https://github.com/callmeray/PointMVSNet),ICCV 2019,**[[Paper](https://arxiv.org/abs/1908.04422)]**
 - [DeepLiDAR](https://github.com/JiaxiongQ/DeepLiDAR),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf)]**, 单张RGB图像+稀疏雷达数据进行室外场景深度估计
 - [Real-Time Monocular Depth Estimation using Synthetic Data with Domain Adaptation via Image Style Transfer](https://github.com/atapour/monocularDepth-Inference),CVPR 2018, **[[Paper](http://breckon.eu/toby/publications/papers/abarghouei18monocular.pdf)]**
-- [Learning Single-Image Depth from Videos using Quality Assessment Networks](https://github.com/princeton-vl/YouTube3D),CVPR 2019, **[[Paper](https://arxiv.org/abs/1806.09573)]**, **[[Project Page](http://www-personal.umich.edu/~wfchen/youtube3d/)]**,[![GitHub stars](https://img.shields.io/github/stars/princeton-vl/YouTube3D.svg?logo=github&label=Stars)](https://github.com/princeton-vl/YouTube3D)
+- [Learning Single-Image Depth from Videos using Quality Assessment Networks](https://github.com/princeton-vl/YouTube3D),CVPR 2019, **[[Paper](https://arxiv.org/abs/1806.09573)]**, **[[Project Page](http://www-personal.umich.edu/~wfchen/youtube3d/)]**
 
 - [SCDA: Adapting Object Detectors via Selective Cross-Domain Alignment](https://github.com/WERush/SCDA),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)]**, **[[Project Page](http://zhuxinge.me/aboutme.html)]**
 
@@ -153,7 +174,8 @@
 - [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://github.com/yzcjtr/GeoNet), CVPR 2018, **[[Paper](https://arxiv.org/abs/1803.02276)]**
 
 ## 3D & Graphic
-- [KillingFusion](https://github.com/saurabheights/KillingFusion),[![GitHub stars](https://img.shields.io/github/stars/saurabheights/KillingFusion.svg?logo=github&label=Stars)](https://github.com/saurabheights/KillingFusion)
+- [KillingFusion](https://github.com/saurabheights/KillingFusion)
+
 - [ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://github.com/PRBonn/refusion), **[[Paper](https://arxiv.org/pdf/1905.02082.pdf)]** 
 
 - [densebody_pytorch](https://github.com/Lotayou/densebody_pytorch), **[[Paper](https://arxiv.org/abs/1903.10153v3)]** 
