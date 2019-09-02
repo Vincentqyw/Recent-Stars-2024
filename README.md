@@ -8,6 +8,9 @@
 
 ## SLAM related
 
+- [SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning](https://github.com/uzh-rpg/sips2_open),3D Vision (3DV) 2019,**[[PDF](https://arxiv.org/abs/1805.01358)]**，RPG实验室出品，深度学习特征点（有特征描述子）,[![GitHub stars](https://img.shields.io/github/stars/uzh-rpg/sips2_open.svg?logo=github&label=Stars)](https://github.com/uzh-rpg/sips2_open)
+- [Matching Features Without Descriptors: Implicitly Matched Interest Points](https://github.com/uzh-rpg/imips_open),BMVC 2019,**[[PDF](http://rpg.ifi.uzh.ch/docs/BMVC19_Cieslewski.pdf)]**,RPG实验室出品，无需特征描述即可进行特征匹配,[![GitHub stars](https://img.shields.io/github/stars/uzh-rpg/imips_open.svg?logo=github&label=Stars)](https://github.com/uzh-rpg/imips_open)
+- [Learning Lightweight Lane Detection CNNs by Self Attention Distillation (ICCV 2019)](https://github.com/cardwing/Codes-for-Lane-Detection),ICCV 2019,**[[PDF](https://arxiv.org/abs/1908.00821)]**，深度学习道路检测
 - [Awesome SLAM Datasets](https://github.com/youngguncho/awesome-slam-datasets),史上最全SLAM数据集，[![GitHub stars](https://img.shields.io/github/stars/youngguncho/awesome-slam-datasets.svg?logo=github&label=Stars)](https://github.com/youngguncho/awesome-slam-datasets) **[公众号说明: 最全 SLAM 开源数据集](https://mp.weixin.qq.com/s/BzcghUnXTR9RQqA3Pc9MhA)**
 - [GNSS-INS-SIM](https://github.com/Aceinna/gnss-ins-sim),惯导融合模拟器，支持IMU数据，轨迹生成等，[![GitHub stars](https://img.shields.io/github/stars/Aceinna/gnss-ins-sim.svg?logo=github&label=Stars)](https://github.com/Aceinna/gnss-ins-sim)
 - [Multi-Sensor Combined Navigation Program(GNSS, IMU, Camera and so on) 多源多传感器融合定位 GPS/INS组合导航](https://github.com/2013fangwentao/Multi-Sensor-Combined-Navigation)，[![GitHub stars](https://img.shields.io/github/stars/2013fangwentao/Multi-Sensor-Combined-Navigation.svg?logo=github&label=Stars)](https://github.com/2013fangwentao/Multi-Sensor-Combined-Navigation)
@@ -16,7 +19,7 @@
 - [CALC2.0](https://github.com/rpng/calc2.0),Convolutional Autoencoder for Loop Closure 2.0,用于闭环检测，[![GitHub stars](https://img.shields.io/github/stars/rpng/calc2.0.svg?logo=github&label=Stars)](https://github.com/rpng/calc2.0)
 - [SegMap](https://github.com/ethz-asl/segmap),RSS 2018,**[[PDF](http://www.roboticsproceedings.org/rss14/p03.pdf)]**, 一种基于3D线段的地图表示，可用于场景识别/机器人定位/环境重建等，[![GitHub stars](https://img.shields.io/github/stars/ethz-asl/segmap.svg?logo=github&label=Stars)](https://github.com/ethz-asl/segmap)
 - [MSCKF_VIO](https://github.com/cggos/msckf_vio_cg), a stereo version of MSCKF，基于MSCKF的双目VIO,[![GitHub stars](https://img.shields.io/github/stars/cggos/msckf_vio_cg.svg?logo=github&label=Stars)](https://github.com/cggos/msckf_vio_cg)
-- [Matching Features Without Descriptors: Implicitly Matched Interest Points](https://github.com/uzh-rpg/imips_open),BMVC 2019,**[[PDF](http://rpg.ifi.uzh.ch/docs/BMVC19_Cieslewski.pdf)]**,RPG实验室出品，无需特征描述即可进行特征匹配,[![GitHub stars](https://img.shields.io/github/stars/uzh-rpg/imips_open.svg?logo=github&label=Stars)](https://github.com/uzh-rpg/imips_open)
+
 - [NetVLAD: CNN architecture for weakly supervised place recognition](https://github.com/Relja/netvlad)，CVPR 2016, CNN框架弱监督学习场景识别,**[[Project Page](https://www.di.ens.fr/willow/research/netvlad/)]**,[![GitHub stars](https://img.shields.io/github/stars/Relja/netvlad.svg?logo=github&label=Stars)](https://github.com/Relja/netvlad)，[Python version](https://github.com/uzh-rpg/netvlad_tf_open)
 - [easy_handeye](https://github.com/IFL-CAMP/easy_handeye),Simple, straighforward ROS library for hand-eye calibration,[![GitHub stars](https://img.shields.io/github/stars/IFL-CAMP/easy_handeye.svg?logo=github&label=Stars)](https://github.com/IFL-CAMP/easy_handeye)
 - [SuperPoint-SLAM](https://github.com/KinglittleQ/SuperPoint_SLAM),利用SuperPoint替换ORB特征点,[![GitHub stars](https://img.shields.io/github/stars/KinglittleQ/SuperPoint_SLAM.svg?logo=github&label=Stars)](https://github.com/KinglittleQ/SuperPoint_SLAM)
@@ -213,6 +216,7 @@
 - [SLAM-Jobs](https://github.com/nebula-beta/SLAM-Jobs), SLAM/SFM求职指南
 
 ## Others
+- [MMSR：MMLAB推出的超分辨工具箱](Image and Video Super-Resolution Toolbox)
 - [深度学习OCR](https://github.com/Bartzi/stn-ocr)
 - [西瓜书🍉学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
 - [awesome-reinforcement-learning-zh](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh),强化学习从入门到放弃的资料
