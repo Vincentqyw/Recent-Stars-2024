@@ -2,10 +2,6 @@
 
 ✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.
 
-## Contribute
-
-❤ Please feel free to pull requests to add links.
-
 ## SLAM related
 
 - [An Evaluation of Feature Matchers for Fundamental Matrix Estimation](https://github.com/JiawangBian/FM-Bench),BMVC 2019,**[[PDF](https://jwbian.net/Papers/FM_BMVC19.pdf)]**,**[[Project Page](http://jwbian.net/fm-bench)]**，特征匹配
@@ -257,7 +253,9 @@
 - [Faceswap with Pytorch or DeepFake with Pytorch](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch), 换脸
 - [DeepFaceLab](https://github.com/iperov/DeepFaceLab), 换脸
 
+## Contribute
 
+❤ Please feel free to pull requests to add links.
 
 ## License
 
