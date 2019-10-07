@@ -8,6 +8,15 @@
 
 ## SLAM related
 
+- [An Evaluation of Feature Matchers for Fundamental Matrix Estimation](https://github.com/JiawangBian/FM-Bench),BMVC 2019,**[[PDF](https://jwbian.net/Papers/FM_BMVC19.pdf)]**,**[[Project Page](http://jwbian.net/fm-bench)]**，特征匹配
+- [A Tightly Coupled 3D Lidar and Inertial Odometry and Mapping Approach](https://github.com/hyye/lio-mapping),ICRA 2019,**[[PDF](https://arxiv.org/abs/1904.06993)]**,**[[Project Page](https://sites.google.com/view/lio-mapping)]**，紧耦合雷达+IMU SLAM
+- [On the Representation of Planes for Efficient Graph-based SLAM with High-level Features](https://github.com/LRMPUT/PlaneSLAM),利用平面信息的SLAM
+- [Visual Odometry Revisited: What Should Be Learnt?](https://github.com/Huangying-Zhan/DF-VO),arXiv 2019,**[[PDF](https://arxiv.org/abs/1909.09803)]**, 深度学习深度+光流进行VO
+- [RF-Net: An End-to-End Image Matching Network based on Receptive Field],CVPR 2019,**[[PDF](https://arxiv.org/abs/1906.00604)]**, 端到端图像匹配
+- [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner),IEEE Robotics and Automation Letters (RA-L), 2019,**[[PDF](https://ieeexplore.ieee.org/document/8758904)]**, 无人机轨迹生成
+- [A general and flexible factor graph non-linear least square optimization framework](https://github.com/dongjing3309/minisam),CoRR 2019,**[[PDF](http://arxiv.org/abs/1909.00903)]**,**[[Project Page](https://minisam.readthedocs.io/)]**
+- [Demo for Kalman filter in ranging system](https://github.com/gao-ouyang/demo_for_kalmanFilter),卡尔曼滤波原理演示
+- [A Holistic Visual Place Recognition Approach using Lightweight CNNs for Severe ViewPoint and Appearance Changes](https://github.com/Ahmedest61/CNN-Region-VLAD-VPR)，场景识别（外观与视角变化时）,[训练和部署源码](https://github.com/ethz-asl/hierarchical_loc)
 - [SIPs: Succinct Interest Points from Unsupervised Inlierness Probability Learning](https://github.com/uzh-rpg/sips2_open),3D Vision (3DV) 2019,**[[PDF](https://arxiv.org/abs/1805.01358)]**，RPG实验室出品，深度学习特征点（有特征描述子）
 
 - [Matching Features Without Descriptors: Implicitly Matched Interest Points](https://github.com/uzh-rpg/imips_open),BMVC 2019,**[[PDF](http://rpg.ifi.uzh.ch/docs/BMVC19_Cieslewski.pdf)]**,RPG实验室出品，无需特征描述即可进行特征匹配
@@ -117,6 +126,16 @@
 - [Divide and Conquer: Effcient Density-Based Tracking of 3D Sensors in Manhattan Worlds](https://github.com/Ethan-Zhou/MWO),ACCV 2016,**[[Project Page](http://users.cecs.anu.edu.au/~u5535909/)]**,曼哈顿世界利用深度传感器进行旋转量平移量分离优化
 - [Real-time Manhattan World Rotation Estimation in 3D](https://github.com/jstraub/rtmf),IROS 2015,实时曼哈顿世界旋转估计
 
+- [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)，关于事件相机的资源
+- [AutonomousVehiclePaper](https://github.com/DeepTecher/AutonomousVehiclePaper)，无人驾驶相关论文速递
+- [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X), Segmentation相关论文&代码
+- [CVPR-2019](https://github.com/amusi/CVPR2019-Code), CVPR 2019 论文开源项目合集
+- [awesome-slam](https://github.com/kanster/awesome-slam), SLAM合集
+- [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam), 视觉SLAM合集
+- [Papers with code](https://github.com/zziz/pwc), 周更论文with代码
+- [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation),[awesome-object-pose](https://github.com/nkalavak/awesome-object-pose), 位姿估计合集
+- [MVision](https://github.com/Ewenwan/MVision), 大礼包：机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
+
 ## Pose/Object tracking
 - [Spatial-Temporal Person Re-identification](https://github.com/Wanggcong/Spatial-Temporal-Re-identification),AAAI 2019,**[[Paper](https://arxiv.org/abs/1812.03282)]**
 - [A tiny, friendly, strong pytorch implement of person re-identification baseline. Tutorial](https://github.com/layumi/Person_reID_baseline_pytorch),CVPR 2019,  **[[Paper](https://arxiv.org/abs/1904.07223)]**
@@ -174,6 +193,10 @@
 - [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://github.com/yzcjtr/GeoNet), CVPR 2018, **[[Paper](https://arxiv.org/abs/1803.02276)]**
 
 ## 3D & Graphic
+
+- [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://github.com/nkolot/SPIN),ICCV 2019, **[[Paper](https://arxiv.org/pdf/1909.12828.pdf)]** , **[[Project Page](https://www.seas.upenn.edu/~nkolot/projects/spin/)]** ,
+- [Cross View Fusion for 3D Human Pose Estimation](https://github.com/microsoft/multiview-human-pose-estimation-pytorch),ICCV 2019, **[[Paper](https://arxiv.org/abs/1909.01203)]** ,跨视角3D位姿估计
+- [MVF-Net: Multi-View 3D Face Morphable Model Regression](https://github.com/Fanziapril/mvfnet),多视角3D人脸重建, **[[Paper](https://arxiv.org/abs/1904.04473)]** 
 - [KillingFusion](https://github.com/saurabheights/KillingFusion)
 
 - [ReFusion: 3D Reconstruction in Dynamic Environments for RGB-D Cameras Exploiting Residuals](https://github.com/PRBonn/refusion), **[[Paper](https://arxiv.org/pdf/1905.02082.pdf)]** 
@@ -184,45 +207,10 @@
 - [Adaptive O-CNN: A Patch-based Deep Representation of 3D Shapes](https://github.com/Microsoft/O-CNN),SIGGRAPH Asia 2018, **[[Project Page](https://wang-ps.github.io/AO-CNN.html)]**
 
 
-## GAN
-- [End-to-end Adversarial Learning for Generative Conversational Agents](https://live.bilibili.com/7332534?visit_id=9ytrx9lpsy80)，2017，介绍了一种端到端的基于GAN的聊天机器人
-
-- [Residual Non-local Attention Networks for Image Restoration](https://github.com/yulunzhang/RNAN),ICLR 2019.
-- [MSGAN: Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis](https://github.com/HelenMao/MSGAN), CVPR 2019,**[[Paper](https://arxiv.org/abs/1903.05628)]**
-- [SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization](https://github.com/NVlabs/SPADE),CVPR 2019, **[[Project Page](https://nvlabs.github.io/SPADE/)]**
-- [Faceswap with Pytorch or DeepFake with Pytorch](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch), 假脸
-
-
-## Machine Learning
-- [The best resources around Machine Learning](https://github.com/RemoteML/bestofml)
-
-- [VGGFace2: A dataset for recognising faces across pose and age](https://github.com/cydonia999/VGGFace2-pytorch)
-- [Statistical learning methods](https://github.com/SmirkCao/Lihang)
-
-
-## Deep Learning
-- [High-Performance Face Recognition Library on PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)，人脸识别库
-
-- [Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera)，深度学习教程（deeplearning.ai）
- 
- 
-
-## Framework
-- [Julia](https://github.com/JuliaLang/julia)
-
-- [A Julia machine learning framework](https://github.com/alan-turing-institute/MLJ.jl)，一种基于Julia的机器学习框架
-
-
-## Collections
-- [Event-based Vision Resources](https://github.com/uzh-rpg/event-based_vision_resources)，关于事件相机的资源
-
-- [AutonomousVehiclePaper](https://github.com/DeepTecher/AutonomousVehiclePaper)，无人驾驶相关论文速递
-- [Segmentation.X](https://github.com/wutianyiRosun/Segmentation.X), Segmentation相关论文&代码
-- [CVPR-2019](https://github.com/amusi/CVPR2019-Code), CVPR 2019 论文开源项目合集
-- [awesome-slam](https://github.com/kanster/awesome-slam), SLAM合集
-- [awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam), 视觉SLAM合集
-- [Papers with code](https://github.com/zziz/pwc), 周更论文with代码
-- [Awesome Human Pose Estimation](https://github.com/cbsudux/awesome-human-pose-estimation),[awesome-object-pose](https://github.com/nkalavak/awesome-object-pose), 位姿估计合集
+## Other Collections
+- [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes),吴恩达老师的机器学习课程个人笔记
+- [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes),机器学习，概率模型和深度学习的讲义(1500+页)和视频链接
+- [CNN-Visualization](https://github.com/scutan90/CNN-Visualization),CNN可视化、理解CNN
 - [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation), 语义分割集合
 - [IROS2018 SLAM Collections](https://github.com/mengyuest/iros2018-slam-papers), IROS 2018集合
 - [VP-SLAM-SC-papers](https://github.com/TerenceCYJ/VP-SLAM-SC-papers),Visual Positioning & SLAM & Spatial Cognition 论文统计与分析
@@ -237,7 +225,8 @@
 - [A curated list of papers & resources linked to 3D reconstruction from images](https://github.com/openMVG/awesome_3DReconstruction_list),有关三维重建的论文汇总
 - [SLAM-Jobs](https://github.com/nebula-beta/SLAM-Jobs), SLAM/SFM求职指南
 
-## Others
+- [Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset](https://github.com/stevewongv/SPANet),CVPR 2019,去雨
+- [Densely Connected Pyramid Dehazing Network](https://github.com/hezhangsprinter/DCPDN),CVPR 2018,去雾
 - [MMSR：MMLAB推出的超分辨工具箱](Image and Video Super-Resolution Toolbox)
 - [深度学习OCR](https://github.com/Bartzi/stn-ocr)
 - [西瓜书🍉学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
@@ -254,6 +243,21 @@
 - Pluralistic-Inpainting, [ArXiv](https://arxiv.org/abs/1903.04227) | [Project Page](http://www.chuanxiaz.com/publication/pluralistic/) | [Online Demo](http://www.chuanxiaz.com/project/pluralistic/) | [Video(demo)](https://www.youtube.com/watch?v=9V7rNoLVmSs)
 - [An Interactive Introduction to Fourier Transforms](https://github.com/Jezzamonn/fourier), 超棒的傅里叶变换图形化解释
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book), 《机器学习》（西瓜书）公式推导解析
+- [Julia](https://github.com/JuliaLang/julia)
+- [A Julia machine learning framework](https://github.com/alan-turing-institute/MLJ.jl)，一种基于Julia的机器学习框架
+- [High-Performance Face Recognition Library on PyTorch](https://github.com/ZhaoJ9014/face.evoLVe.PyTorch)，人脸识别库
+- [Deep-Learning-Coursera](https://github.com/enggen/Deep-Learning-Coursera)，深度学习教程（deeplearning.ai）
+- [The best resources around Machine Learning](https://github.com/RemoteML/bestofml)
+- [VGGFace2: A dataset for recognising faces across pose and age](https://github.com/cydonia999/VGGFace2-pytorch)
+- [Statistical learning methods](https://github.com/SmirkCao/Lihang)，统计学习方法
+- [End-to-end Adversarial Learning for Generative Conversational Agents](https://live.bilibili.com/7332534?visit_id=9ytrx9lpsy80)，2017，介绍了一种端到端的基于GAN的聊天机器人
+- [Residual Non-local Attention Networks for Image Restoration](https://github.com/yulunzhang/RNAN),ICLR 2019.
+- [MSGAN: Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis](https://github.com/HelenMao/MSGAN), CVPR 2019,**[[Paper](https://arxiv.org/abs/1903.05628)]**
+- [SPADE: Semantic Image Synthesis with Spatially-Adaptive Normalization](https://github.com/NVlabs/SPADE),CVPR 2019, **[[Project Page](https://nvlabs.github.io/SPADE/)]**
+- [Faceswap with Pytorch or DeepFake with Pytorch](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch), 换脸
+- [DeepFaceLab](https://github.com/iperov/DeepFaceLab), 换脸
+
+
 
 ## License
 
