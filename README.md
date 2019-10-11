@@ -57,7 +57,6 @@
 
 - [Awesome-VIO](https://github.com/PaoPaoRobot/Awesome-VIO),Discuss about VIO in PaoPaoRobot group
 - [GyroAllan](https://github.com/XinLiGH/GyroAllan),陀螺仪随机误差的 Allan 方差分析, [Another version](https://github.com/rpng/kalibr_allan)
-- [Look No Deeper: Recognizing Places from Opposing Viewpoints under Varying Scene Appearance using Single-View Depth Estimation](https://github.com/oravus/seq2single),ICRA 2019,**[[PDF](https://arxiv.org/abs/1902.07381)]**, 跨大视角的场景重识别
 
 - [Self-supervised Sparse-to-Dense: Self-supervised Depth Completion from LiDAR and Monocular Camera](https://github.com/fangchangma/self-supervised-depth-completion),ICRA 2019,**[[PDF](https://arxiv.org/pdf/1807.00275.pdf)]**, 优化LiDAR以及单目得到的深度图
 - [PlaneRCNN: 3D Plane Detection and Reconstruction from a Single Image](https://github.com/NVlabs/planercnn),CVPR 2019,**[[PDF](https://arxiv.org/pdf/1812.04072.pdf)]**,**[[Project Page](https://research.nvidia.com/publication/2019-06_PlaneRCNN)]**,通过单幅图像进行3D平面检测以及重建
