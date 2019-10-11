@@ -8,7 +8,7 @@
 - [A Tightly Coupled 3D Lidar and Inertial Odometry and Mapping Approach](https://github.com/hyye/lio-mapping),ICRA 2019,**[[PDF](https://arxiv.org/abs/1904.06993)]**,**[[Project Page](https://sites.google.com/view/lio-mapping)]**，紧耦合雷达+IMU SLAM
 - [On the Representation of Planes for Efficient Graph-based SLAM with High-level Features](https://github.com/LRMPUT/PlaneSLAM),利用平面信息的SLAM
 - [Visual Odometry Revisited: What Should Be Learnt?](https://github.com/Huangying-Zhan/DF-VO),arXiv 2019,**[[PDF](https://arxiv.org/abs/1909.09803)]**, 深度学习深度+光流进行VO
-- [RF-Net: An End-to-End Image Matching Network based on Receptive Field],CVPR 2019,**[[PDF](https://arxiv.org/abs/1906.00604)]**, 端到端图像匹配
+- [RF-Net: An End-to-End Image Matching Network based on Receptive Field](https://github.com/Xylon-Sean/rfnet),CVPR 2019,**[[PDF](https://arxiv.org/abs/1906.00604)]**, 端到端图像匹配
 - [Fast-Planner](https://github.com/HKUST-Aerial-Robotics/Fast-Planner),IEEE Robotics and Automation Letters (RA-L), 2019,**[[PDF](https://ieeexplore.ieee.org/document/8758904)]**, 无人机轨迹生成
 - [A general and flexible factor graph non-linear least square optimization framework](https://github.com/dongjing3309/minisam),CoRR 2019,**[[PDF](http://arxiv.org/abs/1909.00903)]**,**[[Project Page](https://minisam.readthedocs.io/)]**
 - [Demo for Kalman filter in ranging system](https://github.com/gao-ouyang/demo_for_kalmanFilter),卡尔曼滤波原理演示
