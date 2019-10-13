@@ -162,7 +162,6 @@
 
 - [SCDA: Adapting Object Detectors via Selective Cross-Domain Alignment](https://github.com/WERush/SCDA),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment_CVPR_2019_paper.pdf)]**, **[[Project Page](http://zhuxinge.me/aboutme.html)]**
 
-- [Learning Single-Image Depth from Videos using Quality Assessment Networks](https://github.com/princeton-vl/YouTube3D),CVPR 2019, **[[Paper](https://arxiv.org/abs/1806.09573)]**, **[[Project Page](http://www-personal.umich.edu/~wfchen/youtube3d/)]**
 - [Learning monocular depth estimation infusing traditional stereo knowledge](https://github.com/fabiotosi92/monoResMatch-Tensorflow),CVPR 2019,**[[PDF](https://vision.disi.unibo.it/~ftosi/papers/monoResMatch.pdf)]**
 - [HPLFlowNet: Hierarchical Permutohedral Lattice FlowNet for Scene Flow Estimation on Large-scale Point Clouds](https://github.com/laoreja/HPLFlowNet),CVPR 2019,**[[Paper](hhttps://web.cs.ucdavis.edu/~yjlee/projects/cvpr2019-HPLFlowNet.pdf)]**
 - [GA-Net: Guided Aggregation Net for End-to-end Stereo Matching](https://github.com/feihuzhang/GANet),CVPR 2019,**[[Paper](https://arxiv.org/pdf/1904.06587.pdf)]**
@@ -189,7 +188,7 @@
 
 ## 3D & Graphic
 
-- [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://github.com/nkolot/SPIN),ICCV 2019, **[[Paper](https://arxiv.org/pdf/1909.12828.pdf)]** , **[[Project Page](https://www.seas.upenn.edu/~nkolot/projects/spin/)]** ,
+- [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://github.com/nkolot/SPIN),ICCV 2019, **[[Paper](https://arxiv.org/pdf/1909.12828.pdf)]** , **[[Project Page](https://www.seas.upenn.edu/~nkolot/projects/spin/)]** 
 - [Cross View Fusion for 3D Human Pose Estimation](https://github.com/microsoft/multiview-human-pose-estimation-pytorch),ICCV 2019, **[[Paper](https://arxiv.org/abs/1909.01203)]** ,跨视角3D位姿估计
 - [MVF-Net: Multi-View 3D Face Morphable Model Regression](https://github.com/Fanziapril/mvfnet),多视角3D人脸重建, **[[Paper](https://arxiv.org/abs/1904.04473)]** 
 - [KillingFusion](https://github.com/saurabheights/KillingFusion)
@@ -222,7 +221,7 @@
 
 - [Spatial Attentive Single-Image Deraining with a High Quality Real Rain Dataset](https://github.com/stevewongv/SPANet),CVPR 2019,去雨
 - [Densely Connected Pyramid Dehazing Network](https://github.com/hezhangsprinter/DCPDN),CVPR 2018,去雾
-- [MMSR：MMLAB推出的超分辨工具箱](Image and Video Super-Resolution Toolbox)
+- [MMSR](https://github.com/open-mmlab/mmsr)，MMLAB推出的超分辨工具箱
 - [深度学习OCR](https://github.com/Bartzi/stn-ocr)
 - [西瓜书🍉学习笔记](https://github.com/Vay-keen/Machine-learning-learning-notes)
 - [awesome-reinforcement-learning-zh](https://github.com/wwxFromTju/awesome-reinforcement-learning-zh),强化学习从入门到放弃的资料
@@ -235,7 +234,7 @@
 - [CHINESE-OCR](https://github.com/xiaofengShi/CHINESE-OCR), 运用tf实现自然场景文字检测
 - [BeautyCamera](https://github.com/PerpetualSmile/BeautyCamera), 美颜相机，具有人脸检测、磨皮美白人脸、滤镜、调节图片、摄像功能
 - [CV-arXiv-Daily](https://github.com/zhengzhugithub/CV-arXiv-Daily), 分享计算机视觉每天的arXiv文章
-- Pluralistic-Inpainting, [ArXiv](https://arxiv.org/abs/1903.04227) | [Project Page](http://www.chuanxiaz.com/publication/pluralistic/) | [Online Demo](http://www.chuanxiaz.com/project/pluralistic/) | [Video(demo)](https://www.youtube.com/watch?v=9V7rNoLVmSs)
+- [Pluralistic-Inpainting](https://github.com/lyndonzheng/Pluralistic-Inpainting), [ArXiv](https://arxiv.org/abs/1903.04227) | [Project Page](http://www.chuanxiaz.com/publication/pluralistic/) | [Online Demo](http://www.chuanxiaz.com/project/pluralistic/) | [Video(demo)](https://www.youtube.com/watch?v=9V7rNoLVmSs)
 - [An Interactive Introduction to Fourier Transforms](https://github.com/Jezzamonn/fourier), 超棒的傅里叶变换图形化解释
 - [pumpkin-book](https://github.com/datawhalechina/pumpkin-book), 《机器学习》（西瓜书）公式推导解析
 - [Julia](https://github.com/JuliaLang/julia)
