@@ -1,4 +1,4 @@
-# :star:Recent Stars:star:
+# :star:Recent Stars:star:[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Vincentqyw/Recent-Stars-2019)
 
 ✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.
 
