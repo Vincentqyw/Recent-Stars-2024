@@ -4,6 +4,17 @@
 
 ## SLAM related
 
+- [High-Precision Localization Using Ground Texture (Micro-GPS)](http://microgps.cs.princeton.edu/),ECCV 2018,**[[PDF](https://arxiv.org/abs/1710.10687)]**,**[[Project page](http://microgps.cs.princeton.edu/)]**,**[[code](http://microgps.cs.princeton.edu/data/micro-gps-cpp-master.zip)]**，地向（摄像机朝向地面）SLAM，获得高精度重定位效果。
+
+- [PlaneSLAM](https://github.com/LRMPUT/PlaneSLAM), Paper: “On the Representation of Planes for Efficient Graph-based SLAM with High-level Features”
+
+- [XIVO: X Inertial-aided Visual Odometry and Sparse Mapping](https://github.com/ucla-vision/xivo), an open-source repository for visual-inertial odometry/mapping. 
+
+- [DeepTAM](https://github.com/lmb-freiburg/deeptam),ECCV 2018,**[[PDF](https://arxiv.org/pdf/1808.01900.pdf)]**,**[[Project page](https://lmb.informatik.uni-freiburg.de/people/zhouh/deeptam/)]**,a learnt system for keyframe-based dense camera tracking and mapping.
+
+- [iRotAvg, Why bundle adjust?](https://github.com/ajparra/iRotAvg),ICRA 2019,**[[PDF](https://cs.adelaide.edu.au/~aparra/publication/parra19_icra/)]**
+- [Tactical Rewind: Self-Correction via Backtracking in Vision-and-Language Navigation](https://github.com/Kelym/FAST),CVPR 2019,**[[PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Ke_Tactical_Rewind_Self-Correction_via_Backtracking_in_Vision-And-Language_Navigation_CVPR_2019_paper.html)]**，视觉+语言导航
+- [DOOR-SLAM](https://github.com/MISTLab/DOOR-SLAM)
 - [An Evaluation of Feature Matchers for Fundamental Matrix Estimation](https://github.com/JiawangBian/FM-Bench),BMVC 2019,**[[PDF](https://jwbian.net/Papers/FM_BMVC19.pdf)]**,**[[Project Page](http://jwbian.net/fm-bench)]**，特征匹配
 - [A Tightly Coupled 3D Lidar and Inertial Odometry and Mapping Approach](https://github.com/hyye/lio-mapping),ICRA 2019,**[[PDF](https://arxiv.org/abs/1904.06993)]**,**[[Project Page](https://sites.google.com/view/lio-mapping)]**，紧耦合雷达+IMU SLAM
 - [On the Representation of Planes for Efficient Graph-based SLAM with High-level Features](https://github.com/LRMPUT/PlaneSLAM),利用平面信息的SLAM
@@ -132,6 +143,12 @@
 - [MVision](https://github.com/Ewenwan/MVision), 大礼包：机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv PCL 机器学习 无人驾驶
 
 ## Pose/Object tracking
+
+- [Unsupervised person re-identification by soft multilabel learning](https://github.com/KovenYu/MAR),CVPR 2019,  **[[Paper](https://kovenyu.com/papers/2019_CVPR_MAR.pdf)]**
+
+- [FCOS: Fully Convolutional One-Stage Object Detection](https://github.com/tianzhi0549/FCOS),ICCV 2019,  **[[Paper](https://arxiv.org/abs/1904.01355)]**
+
+- [Hand Detection and Orientation Estimation](https://github.com/yangli18/hand_detection)
 - [Spatial-Temporal Person Re-identification](https://github.com/Wanggcong/Spatial-Temporal-Re-identification),AAAI 2019,**[[Paper](https://arxiv.org/abs/1812.03282)]**
 - [A tiny, friendly, strong pytorch implement of person re-identification baseline. Tutorial](https://github.com/layumi/Person_reID_baseline_pytorch),CVPR 2019,  **[[Paper](https://arxiv.org/abs/1904.07223)]**
 
@@ -202,6 +219,9 @@
 
 
 ## Other Collections
+
+- [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)，Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
+- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)，学术主页模板
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes),吴恩达老师的机器学习课程个人笔记
 - [machine-learning-notes](https://github.com/roboticcam/machine-learning-notes),机器学习，概率模型和深度学习的讲义(1500+页)和视频链接
 - [CNN-Visualization](https://github.com/scutan90/CNN-Visualization),CNN可视化、理解CNN
