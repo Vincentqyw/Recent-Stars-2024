@@ -4,6 +4,26 @@
 
 ## SLAM related
 
+- [Semantic_SLAM](https://github.com/1989Ryan/Semantic_SLAM),语义SLAM：ROS + ORB SLAM + PSPNet101
+
+- [PlaceRecognition-LoopDetection](https://github.com/BAILOOL/PlaceRecognition-LoopDetection), Light-weight place recognition and loop detection using road markings
+
+- [DOOR-SLAM: Distributed, online, and outlier resilient SLAM for robotic teams](https://github.com/MISTLab/DOOR-SLAM),**[[PDF](https://arxiv.org/abs/1909.12198)]**,**[[Project page](https://mistlab.ca/DOOR-SLAM/)]**，多机器人协作SLAM，增强了场景的适用性
+
+- [awesome-local-global-descriptor](https://github.com/shamangary/awesome-local-global-descriptor), 超详细深度学习特征点描述子集合，需要重点关注一下这个repo
+
+- [GIFT: Learning Transformation-Invariant Dense Visual Descriptors via Group CNNs](https://github.com/zju3dv/GIFT), NeurIPS 2019，**[[PDF](https://arxiv.org/abs/1911.05932)]**, **[[Project page](https://zju3dv.github.io/GIFT/)]**，浙大CAD+商汤联合实验室出品，利用Group CNN来改进superpoint描述子（仅描述，特征点提取可任意选择），可以大幅度增强视角变化时的特征点复检率与匹配点数
+
+- [Key.Net: Keypoint Detection by Handcrafted and Learned CNN Filters](https://github.com/axelBarroso/Key.Net),ICCV 2019, **[[PDF](https://arxiv.org/abs/1904.00889)]**, 深度学习特征点
+
+- [Self-Supervised 3D Keypoint Learning for Ego-motion Estimation](https://github.com/TRI-ML/KP3D),**[[PDF](https://arxiv.org/abs/1912.03426)]**,**[[Youtube](https://www.youtube.com/watch?v=4hFhSD8QUPM)]**, 深度学习特征点
+
+- [VINS-Mono-Optimization](https://github.com/Jichao-Peng/VINS-Mono-Optimization), 实现点线紧耦合优化的VINS-Mono
+
+- [msckf_vio注释版本](https://github.com/PetWorm/msckf_vio_zhushi)
+
+- [NetVLAD-pytorch](https://github.com/lyakaap/NetVLAD-pytorch), NetVLAD场景识别的pytorch实现
+
 - [High-Precision Localization Using Ground Texture (Micro-GPS)](http://microgps.cs.princeton.edu/),ECCV 2018,**[[PDF](https://arxiv.org/abs/1710.10687)]**,**[[Project page](http://microgps.cs.princeton.edu/)]**,**[[code](http://microgps.cs.princeton.edu/data/micro-gps-cpp-master.zip)]**，地向（摄像机朝向地面）SLAM，获得高精度重定位效果。
 
 - [PlaneSLAM](https://github.com/LRMPUT/PlaneSLAM), Paper: “On the Representation of Planes for Efficient Graph-based SLAM with High-level Features”
@@ -204,7 +224,7 @@
 - [GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose](https://github.com/yzcjtr/GeoNet), CVPR 2018, **[[Paper](https://arxiv.org/abs/1803.02276)]**
 
 ## 3D & Graphic
-
+- [PRNet: Self-Supervised Learning for Partial-to-Partial Registration](https://github.com/WangYueFt/prnet),NeurIPS 2019
 - [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://github.com/nkolot/SPIN),ICCV 2019, **[[Paper](https://arxiv.org/pdf/1909.12828.pdf)]** , **[[Project Page](https://www.seas.upenn.edu/~nkolot/projects/spin/)]** 
 - [Cross View Fusion for 3D Human Pose Estimation](https://github.com/microsoft/multiview-human-pose-estimation-pytorch),ICCV 2019, **[[Paper](https://arxiv.org/abs/1909.01203)]** ,跨视角3D位姿估计
 - [MVF-Net: Multi-View 3D Face Morphable Model Regression](https://github.com/Fanziapril/mvfnet),多视角3D人脸重建, **[[Paper](https://arxiv.org/abs/1904.04473)]** 
@@ -220,6 +240,20 @@
 
 ## Other Collections
 
+- [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs), 中文独立博客集锦
+
+- [StructureFlow: Image Inpainting via Structure-aware Appearance Flow](https://github.com/RenYurui/StructureFlow),图像inpainting
+
+- [free-books](https://github.com/ruanyf/free-books),互联网上的免费书籍
+
+- [AcademicPages](https://github.com/academicpages/academicpages.github.io),通用的学术主页模版
+
+- [MMdnn](https://github.com/microsoft/MMdnn),实现深度学习模型之间的相互转换
+- [tensorflow2caffemodel](https://github.com/abner2015/tensorflow2caffemodel),tensorflow模型转caffemodel
+- [lihang-code](https://github.com/fengdu78/lihang-code),《统计学习方法》的代码实现
+- [sse2neon](https://github.com/DLTcollab/sse2neon),[sse2neon](https://github.com/jratcliff63367/sse2neon),SSE转neon，嵌入式移植时可能会用到;
+- [Production-Level-Deep-Learning](https://github.com/alirezadir/Production-Level-Deep-Learning),深度学习模型部署流程
+- [动手学深度学习Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 - [machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn)，Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)，学术主页模板
 - [Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes),吴恩达老师的机器学习课程个人笔记
