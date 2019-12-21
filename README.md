@@ -1,8 +1,14 @@
-# :star:Recent Stars:star:[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Vincentqyw/Recent-Stars-2019)
+# :star:Recent Stars:star:
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Vincentqyw/Recent-Stars-2019)
+[![HitCount](http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019.svg)](http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/Vincentqyw/Recent-Stars-2019)
+
 
 ✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.
 
 ## SLAM related
+
+- [R2D2: Reliable and Repeatable Detector and Descriptor](https://github.com/naver/r2d2),NeurIPS 2019,**[[PDF](https://arxiv.org/abs/1906.06195)]**,**[[Project page](https://europe.naverlabs.com/research/publications/r2d2-reliable-and-repeatable-detectors-and-descriptors-for-joint-sparse-local-keypoint-detection-and-feature-extraction/)]**，深度学习特征点+描述子
 
 - [Semantic_SLAM](https://github.com/1989Ryan/Semantic_SLAM),语义SLAM：ROS + ORB SLAM + PSPNet101
 
