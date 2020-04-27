@@ -1,12 +1,67 @@
-![](https://raw.githubusercontent.com/Vincentqyw/Recent-Stars-2019/master/Recent-Stars-2019.png)
+# Recent Stars 2020
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Vincentqyw/Recent-Stars-2019)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Vincentqyw/Recent-Stars-2020)
 [![HitCount](http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019.svg)](http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/Vincentqyw/Recent-Stars-2019)
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/Vincentqyw/Recent-Stars-2020)
 
 ✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.
 
 ## SLAM related
+
+- [**Reloc**][GN-Net-Benchmark](https://github.com/Artisense-ai/GN-Net-Benchmark), CVPR 2020,GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization, **[[PDF](https://arxiv.org/abs/1904.11932)]**,**[[Project page](http://vision.in.tum.de/gn-net)]**
+
+- [**Feature**][SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork), CVPR 2020, **[[PDF](https://arxiv.org/abs/1911.11763)]**, 划重点！2020年sota超大视角2D特征匹配，[Blog](https://www.vincentqin.tech/posts/superglue/)
+
+- [**Feature**][D3Feat](https://github.com/XuyangBai/D3Feat), CVPR 2020, **[[PDF](https://arxiv.org/abs/2003.03164)]**
+
+- [**Feature**][ASLFeat](https://github.com/lzx551402/ASLFeat), CVPR 2020, ASLFeat: Learning Local Features of Accurate Shape and Localization, **[[PDF](https://arxiv.org/abs/2003.10071)]**
+
+- [**Feature**][GMS-Feature-Matcher](https://github.com/XuyangBai/D3Feat), CVPR 2018, GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence, **[[PDF](http://jwbian.net/Papers/GMS_CVPR17.pdf)]**,**[[Project page](http://jwbian.net/gms)]**
+
+- [**Feature**][D3Feat](https://github.com/XuyangBai/D3Feat), CVPR 2020, **[[PDF](https://arxiv.org/abs/2003.03164)]**
+
+- [**Feature**][3DFeatNet](https://github.com/yewzijian/3DFeatNet), ECCV 2018, **[[PDF](https://arxiv.org/abs/1807.09413)]**
+
+- [**Tutorial**][AutonomousDrivingCookbook](https://github.com/microsoft/AutonomousDrivingCookbook)，Scenarios, tutorials and demos for Autonomous Driving
+
+- [**Tutorial**][SLAMPaperReading](https://github.com/PaoPaoRobot/SLAMPaperReading)，泡泡机器人北京线下SLAM论文分享资料
+
+- [**Tutorial**][VIO_Tutotial_Course](https://github.com/lishuwei0424/VIO_Tutotial_Course)
+
+- [**Tutorial**][VO-SLAM-Review](https://github.com/MichaelBeechan/VO-SLAM-Review)
+
+- [**Tutorial**][VINS-Mono-code-annotation](https://github.com/QingSimon/VINS-Mono-code-annotation),VINS-Mono代码注释以及公式推导
+
+- [**Tutorial**][VINS-Mono-Learning](https://github.com/ManiiXu/VINS-Mono-Learning),VINS-Mono代码注释
+
+- [**Tutorial**][VINS-Course](https://github.com/HeYijia/VINS-Course),VINS-Mono code without Ceres or ROS
+
+- [**Tutorial**][VIO-Doc](https://github.com/StevenCui/VIO-Doc),主流VIO论文推导及代码解析
+
+- [**VO**][CNN-DSO](https://github.com/muskie82/CNN-DSO), Direct Sparse Odometry with CNN Depth Prediction
+
+- [**VO**][fisheye-ORB-SLAM](https://github.com/lsyads/fisheye-ORB-SLAM), A real-time robust monocular visual SLAM system based on ORB-SLAM for fisheye cameras, without rectifying or cropping the input images
+
+- [**VO**][ORB_Line_SLAM](https://github.com/robotseu/ORB_Line_SLAM), Real-Time SLAM with BoPLW Pairs for Stereo Cameras, with Loop Detection and Relocalization Capabilities
+
+- [**VO**][DeepVO-pytorch](https://github.com/ChiWeiHsiao/DeepVO-pytorch.git), ICRA 2017 [DeepVO: Towards end-to-end visual odometry with deep Recurrent Convolutional Neural Networks](https://ieeexplore.ieee.org/document/7989236/)
+
+- [**Calib**][CamOdomCalibraTool](https://github.com/MegviiRobot/CamOdomCalibraTool), The tool to calibrate extrinsic param between camera and wheel.
+
+- [**Calib**][lidar_camera_calibration](https://github.com/heethesh/lidar_camera_calibration),[another version](https://github.com/ankitdhall/lidar_camera_calibration)
+
+- [**Calib**][OdomLaserCalibraTool](https://github.com/MegviiRobot/OdomLaserCalibraTool.git)，相机与2D雷达标定
+
+- [**Calib**][extrinsic_lidar_camera_calibration](https://github.com/UMich-BipedLab/extrinsic_lidar_camera_calibration), LiDARTag: A Real-Time Fiducial Tag using Point Clouds, arXiv 2019, **[[PDF](https://arxiv.org/abs/1908.10349)]**
+
+- [**Calib**][velo2cam_calibration](https://github.com/beltransen/velo2cam_calibration), Automatic Calibration algorithm for Lidar-Stereo camera, **[[Project page](http://wiki.ros.org/velo2cam_calibration)]**
+
+- [**Dataset**][IRS: A Large Synthetic Indoor Robotics Stereo Dataset for Disparity and Surface Normal Estimation](https://github.com/HKBU-HPML/IRS.git)
+
+- [**Tools**][averaging-quaternions](https://github.com/christophhagen/averaging-quaternions),四元数平均
+
+---
+分割线，以下是2019年的星标项目，上面是2020年新星标的。
 
 - [R2D2: Reliable and Repeatable Detector and Descriptor](https://github.com/naver/r2d2),NeurIPS 2019,**[[PDF](https://arxiv.org/abs/1906.06195)]**,**[[Project page](https://europe.naverlabs.com/research/publications/r2d2-reliable-and-repeatable-detectors-and-descriptors-for-joint-sparse-local-keypoint-detection-and-feature-extraction/)]**，深度学习特征点+描述子
 
@@ -176,7 +231,7 @@
 
 - [Hand Detection and Orientation Estimation](https://github.com/yangli18/hand_detection)
 - [Spatial-Temporal Person Re-identification](https://github.com/Wanggcong/Spatial-Temporal-Re-identification),AAAI 2019,**[[Paper](https://arxiv.org/abs/1812.03282)]**
-- [A tiny, friendly, strong pytorch implement of person re-identification baseline. Tutorial](https://github.com/layumi/Person_reID_baseline_pytorch),CVPR 2019,  **[[Paper](https://arxiv.org/abs/1904.07223)]**
+- [A tiny, friendly, strong pytorch implement of person re-identification baseline. **Tutorial**](https://github.com/layumi/Person_reID_baseline_pytorch),CVPR 2019,  **[[Paper](https://arxiv.org/abs/1904.07223)]**
 
 - [Progressive Pose Attention for Person Image Generation](https://github.com/tengteng95/Pose-Transfer),CVPR 2019,**[[Paper](http://arxiv.org/abs/1904.03349)]**
 
