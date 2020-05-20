@@ -8,9 +8,17 @@
 
 ## SLAM related
 
+- [**Feature**][BEBLID: Boosted Efficient Binary Local Image Descriptor](https://github.com/iago-suarez/BEBLID)
+
+- [**Relocalization**][KFNet: Learning Temporal Camera Relocalization using Kalman Filtering](https://github.com/zlthinker/KFNet),CVPR 2020,**[[PDF](https://arxiv.org/abs/2003.10629)]**
+
+- [**Matching**][image-matching-benchmark](https://github.com/vcg-uvic/image-matching-benchmark)
+
+- [**Matching**][GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence](https://github.com/JiawangBian/GMS-Feature-Matcher),CVPR 17 & IJCV 19,**[[PDF](http://jwbian.net/Papers/GMS_CVPR17.pdf)]**,**[[Project page](http://jwbian.net/gms)]**
+
 - [**Reloc**][GN-Net-Benchmark](https://github.com/Artisense-ai/GN-Net-Benchmark), CVPR 2020,GN-Net: The Gauss-Newton Loss for Multi-Weather Relocalization, **[[PDF](https://arxiv.org/abs/1904.11932)]**,**[[Project page](http://vision.in.tum.de/gn-net)]**
 
-- [**Feature**][SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork), CVPR 2020, **[[PDF](https://arxiv.org/abs/1911.11763)]**, 划重点！2020年sota超大视角2D特征匹配，[Blog](https://www.vincentqin.tech/posts/superglue/)
+- [**Matching**][SuperGluePretrainedNetwork](https://github.com/magicleap/SuperGluePretrainedNetwork), CVPR 2020, **[[PDF](https://arxiv.org/abs/1911.11763)]**, 划重点！2020年sota超大视角2D特征匹配，[Blog](https://www.vincentqin.tech/posts/superglue/)
 
 - [**Feature**][D3Feat](https://github.com/XuyangBai/D3Feat), CVPR 2020, **[[PDF](https://arxiv.org/abs/2003.03164)]**
 
