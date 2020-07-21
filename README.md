@@ -8,6 +8,42 @@
 
 ## SLAM related
 
+- [**SLAM**][LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), 激光雷达IMU紧耦合SLAM
+
+- [**Tool**][Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python),  a Python implementation of the [Robotics Toolbox for MATLAB®](https://github.com/petercorke/robotics-toolbox-matlab)
+
+- [**Matching**][LISRD](https://github.com/rpautrat/LISRD),ECCV 2020, **[[PDF](https://arxiv.org/abs/2007.08988)]**，在线局部不变特征匹配！重要！
+
+- [**Matching**][AdaLAM](https://github.com/cavalli1234/AdaLAM),特征匹配快速滤除外点
+
+- [**Calib**][fisheye_pinhole_calib_demo](https://github.com/3DCVer/fisheye_pinhole_calib_demo), 包括鱼眼模型、针孔模型的相机标定，封装了自动编译、库的打包以及外部库的调用测试
+
+- [**Calib**][SensorCalibration](https://github.com/FENGChenxi0823/SensorCalibration), IMU雷达标定
+
+- [**LPVO**][Low-Drift Visual Odometry in Structured Environments by Decoupling Rotational and Translational Motion](https://github.com/PyojinKim/LPVO),ICRA 2018, **[[PDF](http://pyojinkim.com/download/papers/2018_ICRA.pdf)]**, 结构化环境中将旋转量与平移量进行分离优化
+
+- [**VIO**][VIO-SLAM](https://github.com/iamwangyabin/VIO-SLAM), 从零开始手写VIO课后作业
+
+- [**Matching**][TFMatch: Learning-based image matching in TensorFlow](https://github.com/lzx551402/tfmatch),TensorFlow 实现的 GeoDesc,ASLFeat以及ContextDesc
+
+- [**Tutorial**][SLAM-BOOK](https://github.com/yanyan-li/SLAM-BOOK), 一本关于SLAM的书稿，清楚的介绍SLAM系统中的使用的几何方法和深度学习方法，持续更新中
+
+- [**Loop Closing**][OverlapNet - Loop Closing for 3D LiDAR-based SLAM](https://github.com/PRBonn/OverlapNet), RSS 2020, **[[PDF](https://www.ipb.uni-bonn.de/wp-content/papercite-data/pdf/chen2020rss.pdf)]**, 3D激光雷达SLAM闭环
+
+- [**SLAM**][VDO_SLAM](https://github.com/halajun/VDO_SLAM), RGB-D相机数据作为输入，实现追踪动态物体SLAM的功能, **[[PDF](https://arxiv.org/abs/2005.11052)]**
+
+- [**SLAM**][orbslam-map-saving-extension](https://github.com/TUMFTM/orbslam-map-saving-extension)，在ORB-SLAM的基础上增加保存+加载地图功能
+
+- [**Tutorial**][Modern Robotics: Mechanics, Planning, and Control Code Library](https://github.com/NxRLab/ModernRobotics), 现代机器人学, **[[Homepage](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)]**
+
+- [**Matching**][image-matching-benchmark-baselines](https://github.com/vcg-uvic/image-matching-benchmark-baselines), 图像特征匹配挑战赛主页
+
+- [**Matching**][GraphLineMatching](https://github.com/mameng1/GraphLineMatching)
+
+- [**Matching**][Locality Preserving Matching](https://github.com/jiayi-ma/LPM), IJCAI 2017, **[[PDF](https://ai.tencent.com/ailab/media/publications/YuanGao_IJCAI2017_LocalityPreservingMatching.pdf)]**
+
+- [**IMU**][IMUOrientationEstimator](https://github.com/ydsf16/IMUOrientationEstimator)
+
 - [**Feature**][BEBLID: Boosted Efficient Binary Local Image Descriptor](https://github.com/iago-suarez/BEBLID)
 
 - [**Relocalization**][KFNet: Learning Temporal Camera Relocalization using Kalman Filtering](https://github.com/zlthinker/KFNet),CVPR 2020,**[[PDF](https://arxiv.org/abs/2003.10629)]**
@@ -260,6 +296,8 @@
 - [SimpleDet - A Simple and Versatile Framework for Object Detection and Instance Recognition](https://github.com/TuSimple/simpledet),**[[Paper](https://arxiv.org/abs/1903.05831)]** 
 
 ## Depth/Disparity & Flow estimation 
+
+- [**Depth**][SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching), SGM双目立体匹配算法完整实现，代码规范，注释丰富且清晰，CSDN同步教学
 
 - [PointMVSNet: Point-based Multi-view Stereo Network](https://github.com/callmeray/PointMVSNet),ICCV 2019,**[[Paper](https://arxiv.org/abs/1908.04422)]**
 - [DeepLiDAR](https://github.com/JiaxiongQ/DeepLiDAR),CVPR 2019, **[[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiu_DeepLiDAR_Deep_Surface_Normal_Guided_Depth_Prediction_for_Outdoor_Scene_CVPR_2019_paper.pdf)]**, 单张RGB图像+稀疏雷达数据进行室外场景深度估计
