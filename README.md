@@ -8,6 +8,8 @@
 
 ## SLAM related
 
+- [**SLAM**][ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM](https://github.com/UZ-SLAMLab/ORB_SLAM3), **[[PDF](https://arxiv.org/abs/2007.11898)]**
+
 - [**SLAM**][LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), 激光雷达IMU紧耦合SLAM
 
 - [**Tool**][Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python),  a Python implementation of the [Robotics Toolbox for MATLAB®](https://github.com/petercorke/robotics-toolbox-matlab)
