@@ -22,7 +22,7 @@
 
 - [**Calib**][SensorCalibration](https://github.com/FENGChenxi0823/SensorCalibration), IMU雷达标定
 
-- [**LPVO**][Low-Drift Visual Odometry in Structured Environments by Decoupling Rotational and Translational Motion](https://github.com/PyojinKim/LPVO),ICRA 2018, **[[PDF](http://pyojinkim.com/download/papers/2018_ICRA.pdf)]**, 结构化环境中将旋转量与平移量进行分离优化
+- [**VO**][Low-Drift Visual Odometry in Structured Environments by Decoupling Rotational and Translational Motion](https://github.com/PyojinKim/LPVO),ICRA 2018, **[[PDF](http://pyojinkim.com/download/papers/2018_ICRA.pdf)]**, 结构化环境中将旋转量与平移量进行分离优化
 
 - [**VIO**][VIO-SLAM](https://github.com/iamwangyabin/VIO-SLAM), 从零开始手写VIO课后作业
 
