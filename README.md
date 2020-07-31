@@ -14,7 +14,7 @@
   <a href="http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019">
     <img alt="HitCount" src="http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019.svg" />
   </a>
-  <a href="https://github.com/Vincentqyw/Recent-Stars-2020">
+  <a href="https://vincentqin.tech">
     <img alt="LICENSE" src="https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square" />
   </a>
 </p>
