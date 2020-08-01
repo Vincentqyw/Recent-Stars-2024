@@ -3,7 +3,7 @@
 
 <p align="center">
  <img width="100px" src="https://s4.aconvert.com/convert/p3r68-cdx67/ai8ay-7w5ao.svg" align="center" alt="Recent-Stars-2020" />
- <h2 align="center">Recent Stars 2020</h2>
+ <h1 align="center">Recent Stars 2020</h1>
  <p align="center">✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.</p>
 </p>
 
