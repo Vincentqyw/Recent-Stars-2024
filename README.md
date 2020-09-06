@@ -29,6 +29,16 @@
 
 ## SLAM related
 
+- [**Relocalization**][Online Visual Place Recognition via Saliency Re-identification](https://github.com/wh200720041/SRLCD), IROS 2020, **[[PDF](https://arxiv.org/abs/2007.14549)]**, **[[Homepage](https://wanghan.pro/)]**
+
+- [**SLAM**][DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features](https://github.com/ivipsourcecode/dxslam), arXiv 2020, **[[PDF](https://arxiv.org/abs/2008.05416)]**
+
+- [**Feature**][Learning Feature Descriptors using Camera Pose Supervision](https://github.com/qianqianwang68/caps), ECCV 2020, **[[PDF](https://arxiv.org/abs/2004.13324)]**, **[[Homepage](https://qianqianwang68.github.io/CAPS/)]**
+
+- [**Feature**][Efficient adaptive non-maximal suppression algorithms for homogeneous spatial keypoint distribution](https://github.com/BAILOOL/ANMS-Codes),Pattern Recognition Letters 2019，特征点平均分布
+
+- [**VIO**][ALVIO: Adaptive Line and Point Feature-based Visual Inertial Odometry for Robust Localization in Indoor Environments](https://github.com/ankh88324/ALVIO), 点+线特征
+
 - [**SLAM**][ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM](https://github.com/UZ-SLAMLab/ORB_SLAM3), **[[PDF](https://arxiv.org/abs/2007.11898)]**
 
 - [**SLAM**][LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), 激光雷达IMU紧耦合SLAM
