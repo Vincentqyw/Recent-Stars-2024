@@ -29,6 +29,44 @@
 
 ## SLAM related
 
+最近主要关注视觉定位的算法（Last Update: **2020.10.18**）。
+
+- [**Localization**][CMRNet: Camera to LiDAR-Map Registration](https://github.com/cattaneod/CMRNet), **PDF**: **[[CMRNet, ITSC 2019](https://arxiv.org/abs/1906.10109)]**, **[[CMRNet++, ICRA 2020](https://arxiv.org/abs/2004.13795)]**, **[[Homepage](http://vloc-in-lidar.cs.uni-freiburg.de/)]**，在LIDAR地图中用RGB定位，以初始位姿开始，迭代出定位位姿
+
+- [**Localization**][AtLoc: Attention Guided Camera Localization](https://github.com/BingCS/AtLoc), AAAI 2020, **[[PDF](https://arxiv.org/abs/1909.03557)]**，注意力机制视觉定位
+
+- [**Localization**][Hierarchical-Localization](https://github.com/cvg/Hierarchical-Localization), **PDF**, **[[From Coarse to Fine: Robust Hierarchical Localization at Large Scale,CVPR 2019](https://arxiv.org/abs/1812.03506)]**, **[[SuperGlue: Learning Feature Matching with Graph Neural Networks, CVPR 2020](https://arxiv.org/abs/1911.11763)]**, 目前视觉定位挑战赛[visuallocalization.net/benchmark](https://www.visuallocalization.net/benchmark/) TOP 1的算法（使用了Hierarchical Localization - SuperPoint + SuperGlue）。
+
+- [**Localization**][Kapture: Robust Image Retrieval-based Visual Localization using Kapture](https://github.com/naver/kapture), arXiv 2020, **[[PDF](https://arxiv.org/abs/2007.13867)]**, 基于3D模型的视觉定位，局部特征支持[R2D2](http://xxx.itp.ac.cn/abs/1906.06195),[D2-Net](http://xxx.itp.ac.cn/abs/1905.03561),全局特征为[AP-GeM](https://europe.naverlabs.com/research/computer-vision-research-naver-labs-europe/learning-visual-representations/deep-image-retrieval/),另外提出了一种灵活的数据组织格式Kapture，能够轻易地支持导入/出数据到现有的SfM软件
+
+- [**Localization**][CamOdoCal: Automatic Intrinsic and Extrinsic Calibration of a Rig with Multiple Generic Cameras and Odometry](https://github.com/hengli/camodocal), RSJ International Conference on Intelligent Robots & Systems 2013, **[[PDF](https://sci-hub.do/10.1109/iros.2013.6696592)]**
+
+- [**Localization**][Night-to-Day Image Translation for Retrieval-based Localization](https://github.com/AAnoosheh/ToDayGAN), arXiv 2018, **[[PDF](https://arxiv.org/abs/1809.09767)]**， 黑夜转白天准确视觉定位
+
+- [**Localization**][DSAC: DSAC – Differentiable RANSAC for Camera Localization](https://github.com/cvlab-dresden/DSAC), CVPR 2017, **[[PDF](https://arxiv.org/abs/1611.05705)]**, **[[Homepage](https://hci.iwr.uni-heidelberg.de/vislearn/research/scene-understanding/pose-estimation/#DSAC)]**
+
+- [**Localization**][ESAC: Expert Sample Consensus Applied to Camera Re-Localization](https://github.com/vislearn/esac), ICCV 2019, **[[PDF](https://arxiv.org/abs/1908.02484)]**, **[[Homepage](https://hci.iwr.uni-heidelberg.de/vislearn/research/scene-understanding/pose-estimation/#ICCV19)]**
+
+- [**Localization**][DIFL-FCL：Retrieval-based Localization Based on Domain-invariant Feature Learning under Changing Environments](https://github.com/HanjiangHu/DIFL-FCL), IROS 2019, **[[PDF](https://arxiv.org/abs/1909.10184)]**
+
+- [**Localization**][Visual Localization Under Appearance Change: A Filtering Approach](https://github.com/dadung/Visual-Localization-Filtering), DICTA 2019, **[[PDF](https://arxiv.org/abs/1811.08063)]**
+
+- [**Localization**][A Generative Map for Image-based Camera Localization](https://github.com/Mingpan/generative_map), 2019, **[[PDF](https://arxiv.org/abs/1902.11124)]**，视觉定位
+
+- [**Localization**][DISAM: Domain-invariant Similarity Activation Map Metric Learning for Retrieval-based Long-term Visual Localization](https://github.com/HanjiangHu/DISAM), IROS 2019, **[[PDF](https://arxiv.org/abs/2009.07719)]**，基于图像召回的视觉定位
+
+- [**Localization**][RGB2LIDAR: Towards Solving Large-Scale Cross-Modal Visual Localization](https://github.com/niluthpol/RGB2LIDAR), ACM MM 2020, **[[PDF](https://arxiv.org/abs/2009.05695)]**，在LIDAR地图中用RGB定位
+
+- [**Localization**][Multi-Process Fusion: Visual Place Recognition Using Multiple Image Processing Methods](https://github.com/StephenHausler/Multi-Process-Fusion), IEEE RAL 2019, **[[PDF](https://arxiv.org/abs/1903.03305)]**
+
+- [**Localization**][Learning Two-View Correspondences and Geometry Using Order-Aware Network](https://github.com/zjhthu/OANet), ICCV 2019, **[[PDF](https://arxiv.org/abs/1908.04964)]**
+
+- [**L-SLAM**][LeGO-LOAM: Lightweight and Ground-Optimized Lidar Odometry and Mapping on Variable Terrain](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM), IROS 2018, **[[PDF](https://sci-hub.do/10.1109/iros.2018.8594299)]**
+
+- [**SfM**][Multi-View Optimization of Local Feature Geometry](https://github.com/mihaidusmanu/local-feature-refinement), ECCV 2020, **[[PDF](https://arxiv.org/abs/2003.08348)]**, **[[Homepage](https://dsmn.ml/publications/mvolfg.html)]**, **[[Video](https://www.youtube.com/watch?v=zBbIFxMGs3A)]**
+
+- [**VIO**][Robust and Efficient Visual-Inertial Odometry with Multi-plane Priors](https://github.com/zju3dv/PVIO), PRCV 2019, **[[PDF](http://www.cad.zju.edu.cn/home/gfzhang/projects/prcv2019-planeVIO.pdf)]**， 多平面先验VI里程计
+
 - [**Relocalization**][Online Visual Place Recognition via Saliency Re-identification](https://github.com/wh200720041/SRLCD), IROS 2020, **[[PDF](https://arxiv.org/abs/2007.14549)]**, **[[Homepage](https://wanghan.pro/)]**
 
 - [**SLAM**][DXSLAM: A Robust and Efficient Visual SLAM System with Deep Features](https://github.com/ivipsourcecode/dxslam), arXiv 2020, **[[PDF](https://arxiv.org/abs/2008.05416)]**
