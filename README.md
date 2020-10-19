@@ -29,7 +29,9 @@
 
 ## SLAM related
 
-最近主要关注视觉定位的算法（Last Update: **2020.10.18**）。
+最近主要关注视觉定位的算法（Last Update: **2020.10.19**）
+
+- [**Localization**] Augmenting Visual Place Recognition with Structural Cues, Robotics and Automation Letters (RA-L) 2020, **[[PDF](http://rpg.ifi.uzh.ch/docs/RAL20_Oertel.pdf)]**，**[[Homepage](http://rpg.ifi.uzh.ch/research_vo.html)]**，结合外观以及3D结构线索增强视觉定位，目前效果远超NetVLad
 
 - [**Localization**][CMRNet: Camera to LiDAR-Map Registration](https://github.com/cattaneod/CMRNet), **PDF**: **[[CMRNet, ITSC 2019](https://arxiv.org/abs/1906.10109)]**, **[[CMRNet++, ICRA 2020](https://arxiv.org/abs/2004.13795)]**, **[[Homepage](http://vloc-in-lidar.cs.uni-freiburg.de/)]**，在LIDAR地图中用RGB定位，以初始位姿开始，迭代出定位位姿
 
