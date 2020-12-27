@@ -29,7 +29,19 @@
 
 ## SLAM related
 
-最近主要关注视觉定位的算法（Last Update: **2020.10.19**）
+最近主要关注视觉定位的算法（Last Update: **2020.12.27**）
+
+- [**Feature**] [FFD: Fast Feature Detector](https://github.com/mogvision/FFD), TIP 2020, **[[PDF](https://arxiv.org/pdf/2012.00859.pdf)]**, **[[Blog](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652168629&idx=1&sn=e9d845d4371f0eb3f5d3da0cc3c161a5&chksm=f0f71a5cc780934af41f1d08fc9ef752a11198157b96b849da179e5131e9bc66cf62a6bb3c31&token=208229741&lang=zh_CN#rd)]**，传统方式实现快速特征提取器，该方法的复杂度小于目前流行SIFT约5%
+
+- [**Feature**] [Learning and aggregating deep local descriptors for instance-level recognition](https://github.com/gtolias/how), ECCV 2020, **[[PDF](https://arxiv.org/abs/2007.13172)]**, 深度局部描述子实现instance-level的识别
+
+- [**Mapping**] [Multi-View Optimization of Local Feature Geometry](https://github.com/mihaidusmanu/local-feature-refinement), ECCV 2020, **[[PDF](https://arxiv.org/abs/2003.08348)]**,**[[Homepage](https://dsmn.ml/publications/mvolfg.html)]**，多视角优化2D点进而提高SFM建图的精度，如降低平均重投影误差
+
+- [**Localization&Mapping**] [Cross-Descriptor Visual Localization and Mapping](https://github.com/mihaidusmanu/cross-descriptor-vis-loc-map), arxiv 2020, **[[PDF](http://xxx.itp.ac.cn//pdf/2012.01377.pdf)]**, 跨描述子视觉建图与定位：能够使建图特征进行“更新”以及实现了跨特征类型的匹配（如使用SIFT建立的场景模型，可以用HardNet进行定位）
+
+- [**SLAM**] [CamVox: A Low-cost and Accurate Lidar-assisted Visual SLAM System](https://github.com/ISEE-Technology/CamVox), arxiv 2020, **[[PDF](https://arxiv.org/abs/2011.11357)]**，**[[Blog](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652168464&idx=2&sn=339ccc5575fc8a766ddbed1d8026554a&chksm=f0f71af9c78093efc9208bed3792d1ac27e3232fbd5e274c4b9dce21b0172ff3a014386f7fc4&token=208229741&lang=zh_CN#rd)]**，相机和激光雷达融合（SLAM）
+
+- [**Localization**] [Stereo Localization in LiDAR Maps](https://github.com/tony1098/Stereo-Localization-in-LiDAR-Maps), 跨模态定位：在LiDAR地图中使用视觉图像定位
 
 - [**Localization**] Augmenting Visual Place Recognition with Structural Cues, Robotics and Automation Letters (RA-L) 2020, **[[PDF](http://rpg.ifi.uzh.ch/docs/RAL20_Oertel.pdf)]**，**[[Homepage](http://rpg.ifi.uzh.ch/research_vo.html)]**，结合外观以及3D结构线索增强视觉定位，目前效果远超NetVLad
 
