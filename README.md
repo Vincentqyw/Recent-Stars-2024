@@ -1,9 +1,9 @@
 
-<!--# Recent Stars 2020-->
+<!--# Recent Stars 2021-->
 
 <p align="center">
  <img width="100px" src="github-star.svg" align="center" alt="Recent-Stars-2020" />
- <h1 align="center">Recent Stars 2020</h1>
+ <h1 align="center">Recent Stars 2021</h1>
  <p align="center">✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.</p>
 </p>
 
@@ -29,7 +29,7 @@
 
 ## SLAM related
 
-最近主要关注视觉定位的算法（Last Update: **2020.12.27**）
+最近主要关注视觉定位的算法（Last Update: **2021.03.05**）
 
 - [**Feature**] [FFD: Fast Feature Detector](https://github.com/mogvision/FFD), TIP 2020, **[[PDF](https://arxiv.org/pdf/2012.00859.pdf)]**, **[[Blog](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652168629&idx=1&sn=e9d845d4371f0eb3f5d3da0cc3c161a5&chksm=f0f71a5cc780934af41f1d08fc9ef752a11198157b96b849da179e5131e9bc66cf62a6bb3c31&token=208229741&lang=zh_CN#rd)]**，传统方式实现快速特征提取器，该方法的复杂度小于目前流行SIFT约5%
 
