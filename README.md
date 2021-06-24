@@ -11,9 +11,9 @@
   <a href="https://github.com/Vincentqyw/Recent-Stars-2020">
     <img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
   </a>
-  <a href="http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019">
+<!--   <a href="http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019">
     <img alt="HitCount" src="http://hits.dwyl.io/Vincentqyw/Recent-Stars-2019.svg" />
-  </a>
+  </a> -->
   <a href="https://vincentqin.tech">
     <img alt="LICENSE" src="https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square" />
   </a>
@@ -29,7 +29,61 @@
 
 ## SLAM related
 
-最近主要关注视觉定位的算法（Last Update: **2021.03.05**）
+最近主要关注视觉定位+SFM算法（Last Update: **2021.06.24**）
+
+- [**Light Flow**] [Learning Optical Flow from a Few Matches](https://github.com/zacjiang/SCV), CVPR 2021, **[[PDF](https://arxiv.org/abs/2104.02166)]**, 光流估计
+
+- [**SFM**] [Beyond Controlled Environments: 3D Camera Re-Localization in Changing Indoor Scenes](https://github.com/tsattler/MultiCameraPose), ECCV 2020, **[[PDF](https://arxiv.org/abs/2008.02004)]**, 已知2D-3D关联和相对位姿，用于多相机位姿估计
+
+- [**SLAM**] [Tangent Space Backpropagation for 3D Transformation Groups](https://github.com/princeton-vl/lietorch), CVPR 2021, **[[PDF](https://arxiv.org/abs/2103.12032)]**, 使用Torch实现李群反向传播
+
+- [**Localization**] [Visual-Based-Localization-Papers](https://github.com/Johnzdh/awesome-visual-localization-papers), 视觉定位相关论文集
+
+- [**Localization**] [kapture-localization: toolbox](https://github.com/naver/kapture-localization), 基于[kapture](https://github.com/naver/kapture)的视觉定位流程
+
+- [**Localization**] [SeqNet: Learning Descriptors for Sequence-based Hierarchical Place Recognition](https://github.com/oravus/seqNet), ICRA 2021, **[[PDF](https://arxiv.org/abs/2102.11603)]**,**[[Video](https://www.youtube.com/watch?v=KYw7RhDfxY0)]**, 一种基于图像序列的场景识别算法
+
+- [**Event Camera**] [DSEC: A Stereo Event Camera Dataset for Driving Scenarios](https://github.com/uzh-rpg/DSEC), CVPRW 2021, **[[PDF](http://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf)]**,**[[Homepage](https://dsec.ifi.uzh.ch/)]**, 自动驾驶环境下，使用事件相机+双目全局曝光+LIDAR+RTK GPS采集的数据集
+
+- [**SFM**] [openMVS_comments](https://github.com/electech6/openMVS_comments), OpenMVS 注释版
+
+- [**3D Reconstruction**] [J3DReconstruction](https://github.com/SoulBasic/J3DReconstruction), Windows下基于openMVG+openMVS的三维重建解决方案以及基于Qt的可视化桌面平台
+
+- [**PointCloud**] [3D-PointCloud](https://github.com/zhulf0804/3D-PointCloud), 点云相关论文以及数据集
+
+- [**SLAM**] [VIDO-SLAM](https://github.com/bxh1/VIDO-SLAM), 单目相机紧耦合动态物体环境下SLAM
+
+- [**SLAM**] [Interactive Visualisation of Gaussian processes](https://github.com/st--/interactive-gp-visualization), **[[Homepage](http://www.infinitecuriosity.org/vizgp/)]**, 高斯过程动画演示
+
+- [**SFM**] [ROBA: Rotation-Only Bundle Adjustment](https://github.com/sunghoon031/ROBA), CVPR 2021, **[[PDF](https://arxiv.org/abs/2011.11724)]**,**[[Video](https://www.youtube.com/watch?v=JXnEwXwVKus)]**, 高效优化旋转量，用于全局SFM，提高SFM精度
+
+- [**Localization**] [Fusion-DHL: WiFi, IMU, and Floorplan Fusion for Dense History of Locations in Indoor Environments](https://github.com/Sachini/Fusion-DHL), ICRA 2021, **[[PDF](https://arxiv.org/abs/2105.08837)]**,**[[Video](https://youtu.be/CCDms7KWgI8)]**, 多模态（WiFi,IMU,Floorplan）传感器数据融合室内定位
+
+- [**SLAM**] [VINS-GPS-Wheel](https://github.com/Wallong/VINS-GPS-Wheel), 基于VINS-Mono开发的SLAM算法，轮式紧耦合，GPS松耦合
+
+- [**SLAM**] [OpenREALM](https://github.com/laxnpander/OpenREALM),**[[Video](https://www.youtube.com/watch?v=9MvPTHP0r0c)]**, 基于OpenVSLAM开发的一套开源SLAM框架，可用于实时无人机建图定位
+
+- [**Localization**] [InLoc_demo](https://github.com/HajimeTaira/InLoc_demo), 用于验证室内数据集InLoc视觉定位效果的演示脚本
+
+- [**L-SLAM**] [T-LOAM: Truncated Least Squares Lidar-only Odometry and Mapping in Real-Time](https://github.com/zpw6106/tloam), TGRS 2021, **[[PDF](https://ieeexplore.ieee.org/document/9446309)]**,**[[Video](https://www.youtube.com/watch?v=YwINGyaRXVQ)]**, 使用截断最小二乘+Open3D点云库实现SLAM
+
+- [**SLAM**] [ADEKF](https://github.com/TomLKoller/ADEKF), 无需定义雅可比，ceres实现自动微分卡尔曼滤波
+
+- [**L-SLAM**] [Locus: LiDAR-based Place Recognition using Spatiotemporal Higher-Order Pooling](https://github.com/csiro-robotics/locus), ICRA 2021, **[[PDF](https://arxiv.org/abs/2011.14497)]**,**[[Homepage](https://research.csiro.au/robotics/locus-pr)]**, 3D点云全局描述子实现场景识别
+
+- [**Matching**] [COTR: Correspondence Transformer for Matching Across Images](https://github.com/ubc-vision/COTR), CVPR 2021, **[[PDF](https://arxiv.org/abs/2103.14167)]**,**[[Homepage](https://jiangwei221.github.io/vids/cotr/README.html)]**, 基于Transformer的图像匹配，非特征点也可匹配
+
+- [**Matching**] [NRE: Neural Reprojection Error: Merging Feature Learning and Camera Pose Estimation](https://github.com/germain-hug/NRE), CVPR 2021, **[[PDF](https://arxiv.org/abs/2103.07153)]**,**[[Homepage](https://www.hugogermain.com/nre)]**, 改进传统的重投影误差，使用深度学习重新设计重投影误差的形式，实现特征匹配和相机位姿估计
+
+- [**Matching**][Learning Accurate Dense Correspondences and When to Trust Them](https://github.com/PruneTruong/DenseMatching), CVPR 2021 (Oral), **[[PDF](https://arxiv.org/abs/2101.01710)]**,稠密特征匹配
+
+- [**SFM**][How privacy preserving are Line Clouds? Recovering Scene Details from 3D Lines](https://github.com/kunalchelani/Line2Point), CVPR 2021, **[[PDF](https://openaccess.thecvf.com/content/CVPR2021/html/Chelani_How_Privacy-Preserving_Are_Line_Clouds_Recovering_Scene_Details_From_3D_CVPR_2021_paper.html)]**,**[[Video](https://www.youtube.com/watch?v=PdwGHHizKXM)]**,隐私保护SFM将模型中的点转换成了线，视觉（人）根本看不出场景的原本的样子，本文反向将这些线转换成了点 ，进而恢复场景的结构。
+
+- [**L-SLAM**][R2LIVE: A Robust, Real-time, LiDAR-Inertial-Visual tightly-coupled state Estimator and mapping](https://github.com/hku-mars/r2live), arxiv 2020, **[[PDF](https://arxiv.org/abs/2102.12400)]**,**[[Video](https://www.youtube.com/watch?v=9lqRHmlN_MA)]**,激光+IMU+视觉紧耦合SLAM
+
+- [**SFM**] [InvSFM: Revealing Scenes by Inverting Structure from Motion Reconstructions](https://github.com/francescopittaluga/invsfm), CVPR 2019 (Oral), **[[PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Pittaluga_Revealing_Scenes_by_Inverting_Structure_From_Motion_Reconstructions_CVPR_2019_paper.pdf)]**,**[[Homepage](https://www.francescopittaluga.com/invsfm/index.html)]**, 反向SFM，从点云恢复场景
+
+- [**Feature**] [LETR: Line Segment Detection Using Transformers without Edges](https://github.com/mlpc-ucsd/LETR), CVPR2021 (Oral), **[[PDF](https://arxiv.org/abs/2101.01909)]**, 利用Transformer实现端到端线段提取
 
 - [**Feature**] [FFD: Fast Feature Detector](https://github.com/mogvision/FFD), TIP 2020, **[[PDF](https://arxiv.org/pdf/2012.00859.pdf)]**, **[[Blog](https://mp.weixin.qq.com/s?__biz=MzI3NDIyMjcyNg==&mid=2652168629&idx=1&sn=e9d845d4371f0eb3f5d3da0cc3c161a5&chksm=f0f71a5cc780934af41f1d08fc9ef752a11198157b96b849da179e5131e9bc66cf62a6bb3c31&token=208229741&lang=zh_CN#rd)]**，传统方式实现快速特征提取器，该方法的复杂度小于目前流行SIFT约5%
 
@@ -431,6 +485,9 @@
 
 
 ## Other Collections
+
+- [Matrix-Calculus](https://github.com/LynnHo/Matrix-Calculus), 矩阵求导方法
+- [Mathematics](https://github.com/Ewenwan/Mathematics),数学知识点滴积累,矩阵,数值优化,神经网络反向传播,图优化,概率论,随机过程,卡尔曼滤波,粒子滤波,数学函数拟合
 
 - [chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs), 中文独立博客集锦
 
