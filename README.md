@@ -27,9 +27,12 @@
 ✔ This repo collects some links with papers which I recently starred related on SLAM, Pose/Object tracking, Depth/Disparity/Flow Estimation, 3D-graphic, etc.
 -->
 
+近期写了一个自动获取Arxiv上有关SLAM/特征提取匹配/视觉定位等领域论文的小工具[**cv-arxiv-daily**](https://github.com/Vincentqyw/cv-arxiv-daily)，每日更新，欢迎大家关注。
+Recommend: A useful [tool](https://github.com/Vincentqyw/cv-arxiv-daily) to automatically update CV papers daily using github actions (Update Every day)
+
 ## SLAM related
 
-最近主要关注视觉定位+SFM算法（Last Update: **2021.06.24**）
+最近主要关注视觉定位+SFM算法（Last Update: **2021.12.31**）
 
 - [**Light Flow**] [Learning Optical Flow from a Few Matches](https://github.com/zacjiang/SCV), CVPR 2021, **[[PDF](https://arxiv.org/abs/2104.02166)]**, 光流估计
 
