@@ -32,7 +32,9 @@ Recommend: A useful [tool](https://github.com/Vincentqyw/cv-arxiv-daily) to auto
 
 ## SLAM related
 
-最近主要关注视觉定位+SFM算法（Last Update: **2021.12.31**）
+最近主要关注视觉定位+SFM算法（Last Update: **2022.03.31**）
+
+- [**Localization**] [CrossLoc: Scalable Aerial Localization Assisted by Multimodal Synthetic Data](https://github.com/TOPO-EPFL/CrossLoc), CVPR 2022, **[[PDF](https://arxiv.org/abs/2112.09081)]**, **[[Video](https://youtu.be/pytRRXPFqFE)]**, **[[Website](https://crossloc.github.io/)]**, **[[Dataset](https://doi.org/10.5061/dryad.mgqnk991c)]**, 为空中无人机视角提供sim2real视觉定位的end-to-end方案，虚拟数据生成工具+大规模高精度数据集+multi-modal视觉定位算法
 
 - [**Light Flow**] [Learning Optical Flow from a Few Matches](https://github.com/zacjiang/SCV), CVPR 2021, **[[PDF](https://arxiv.org/abs/2104.02166)]**, 光流估计
 
