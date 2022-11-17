@@ -567,5 +567,5 @@ Recommend: A useful [tool](https://github.com/Vincentqyw/cv-arxiv-daily) to auto
 
 ## Star History
 
-[![Stargazers over time](https://starchart.cc/Vincentqyw/Recent-Stars-2020.svg)](https://starchart.cc/Vincentqyw/Recent-Stars-2020)
-      
+[![Star History Chart](https://api.star-history.com/svg?repos=Vincentqyw/Recent-Stars-2022&type=Date)](https://star-history.com/#Vincentqyw/Recent-Stars-2022&Date)
+
